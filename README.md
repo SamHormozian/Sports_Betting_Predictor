@@ -1,5 +1,3 @@
-# Sports_Betting_Predictor
-
 # Sports Betting Predictor
 
 ## Overview
