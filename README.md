@@ -19,7 +19,10 @@ This project aims to predict sports outcomes (e.g., match winners, point spreads
     ```
     git clone https://github.com/SamHormozian/Sports_Betting_Predictor.git
 2. Install Dependencies:
+   ```
+
     pip install -r requirements.txt
 3. Run training pipeline:
+   ```
+
     python src/train.py
-    ```
