@@ -1,6 +1,8 @@
 team,player,position,injury,status
 N/A,N/A,N/A,N/A,N/A
-N/A,Jesse Luketa,LB,"Dec 15: Luketa sustained a thigh injury and is questionable to return to Sunday's game against the Patriots, Darren Urban of the Cardinals' official site reports.",Questionable
+N/A,Trey Benson,RB,Dec 15: Benson (ankle) has been ruled out for the rest of Sunday's matchup with the Patriots.,Questionable
+N/A,Max Melton,CB,"Dec 15: Melton (shin) is questionable to return to Sunday's contest against the Patriots, Tyler Drake of ArizonaSports.com reports.",Questionable
+N/A,Jesse Luketa,LB,Dec 15: Luketa (thigh) has been ruled out for the rest of Sunday's contest against the Patriots.,Questionable
 N/A,Mack Wilson Sr.,LB,"Dec 15: Wilson was ruled out with a concussion for the remainder of Sunday's game against the Patriots, Darren Urban of the Cardinals' official site reports.",Questionable
 N/A,Xavier Weaver,WR,,Out
 N/A,Travis Vokolek,TE,,Out
@@ -44,6 +46,10 @@ N/A,Trayvon Mullen,CB,Aug 28: Mullen (shoulder) was placed on injured reserve by
 N/A,Owen Wright,RB,"Aug 27: Wright (foot) was placed on injured reserve by the Ravens on Tuesday, Clifton Brown of the team's official site reports.",Injured Reserve
 N/A,Malik Hamm,LB,"Aug 13: Hamm underwent surgery to repair a torn ACL in his knee, Jonas Shaffer of TheBaltimoreBanner.com reports.",Injured Reserve
 N/A,N/A,N/A,N/A,N/A
+N/A,Spencer Brown,OT,Dec 15: Brown suffered a head injury in Sunday's 48-42 win over the Lions.,Questionable
+N/A,Cole Bishop,S,,Questionable
+N/A,Matt Milano,LB,Dec 15: Milano exited Sunday's game against the Lions with a groin injury and is questionable to return.,Questionable
+N/A,Curtis Samuel,WR,Dec 15: Samuel exited Sunday's game against the Lions with a shoulder injury.,Questionable
 N/A,Casey Toohill,DE,Dec 15: Toohill (ribs) is inactive for Sunday's game against the Lions.,Out
 N/A,Damar Hamlin,S,Dec 15: Hamlin (back) is inactive for Sunday's game against the Lions.,Out
 N/A,Taylor Rapp,S,Dec 15: Rapp (neck/shoulder) is inactive for Sunday's game against the Lions.,Out
@@ -111,9 +117,8 @@ N/A,Chris Evans,RB,Aug 19: Evans (leg) was placed on injured reserve Monday.,Inj
 N/A,Cam Sample,DE,Aug 7: The Bengals placed Sample (Achilles) on injured reserve Wednesday.,Injured Reserve
 N/A,N/A,N/A,N/A,N/A
 N/A,Dustin Hopkins,PK,"Dec 15: Head coach Kevin Stefanski said that Hopkins will kick next Sunday against the Bengals, Daniel Oyefusi of ESPN.com reports.",Out
-N/A,Nick Chubb,RB,,Doubtful
+N/A,Nick Chubb,RB,Dec 15: Chubb won't return to Sunday's game against the Chiefs due to a foot injury.,Doubtful
 N/A,Shelby Harris,DT,"Dec 15: Harris is questionable to return to Sunday's game against the Chiefs due to an elbow injury, Kelsey Russo of the Browns' official site reports.",Questionable
-N/A,Myles Garrett,DE,,Questionable
 N/A,Martin Emerson Jr.,CB,"Dec 15: Emerson (head) has been downgraded to out for the rest of Sunday's game against the Chiefs, Kelsey Russo of the Browns' official site reports.",Questionable
 N/A,D'Onta Foreman,RB,Dec 15: Foreman (coach's decision) is inactive for Sunday's clash against Kansas City.,Out
 N/A,David Njoku,TE,Dec 15: Njoku (hamstring) is inactive for Sunday's game against the Chiefs.,Out
@@ -135,6 +140,7 @@ N/A,James Hudson III,OT,"Oct 12: Cleveland placed Hudson (shoulder) on IR on Sat
 N/A,Charley Hughlett,LS,Oct 9: Cleveland placed Hughlett (ribs) on its injured reserve list Wednesday.,Injured Reserve
 N/A,Alex Wright,DE,"Oct 5: The Browns placed Wright (triceps) on injured reserve Saturday, Daniel Oyefusi of ESPN.com reports.",Injured Reserve
 N/A,David Bell,WR,Sep 17: The Browns placed Bell (hip) on injured reserve Tuesday.,Injured Reserve
+N/A,Luke Wypler,C,"Aug 27: Cleveland placed Wypler (ankle) on its injured reserve list Tuesday, Kelsey Russo of the Browns' official site reports.",Injured Reserve
 N/A,N/A,N/A,N/A,N/A
 N/A,Jourdan Lewis,CB,"Dec 15: Lewis is questionable to return to Sunday's game against the Panthers due to an elbow injury, Calvin Watkins of The Dallas Morning News reports.",Questionable
 N/A,T.J. Bass,G,"Dec 15: Bass sustained a thigh injury and will not return to Sunday's game against the Panthers, Nick Harris of the Fort Worth Star-Telegram reports.",Questionable
@@ -158,6 +164,10 @@ N/A,John Stephens Jr.,TE,"Oct 26: The Cowboys placed Stephens (knee) on injured 
 N/A,Nathan Thomas,OT,Aug 28: Thomas (undisclosed) was placed on injured reserve by the Cowboys on Tuesday.,Injured Reserve
 N/A,Earl Bostick Jr.,OT,Aug 19: Bostick (leg) was placed on the Cowboys' injured reserve Monday.,Injured Reserve
 N/A,N/A,N/A,N/A,N/A
+N/A,Pat Surtain II,CB,,Questionable
+N/A,D.J. Jones,DT,"Dec 15: Jones exited Sunday's game against the Colts with a finger injury and is doubtful to return, Parker Gabriel of The Denver Post reports.",Questionable
+N/A,Quinn Meinerz,G,"Dec 15: Meinerz (shoulder) is questionable to return to Sunday's contest against the Colts, Ryan McFadden of The Denver Post reports.",Questionable
+N/A,Jaleel McLaughlin,RB,"Dec 15: McLaughlin left Sunday's game against the Colts after sustaining a quad injury, Parker Gabriel of The Denver Post reports.",Questionable
 N/A,Zach Wilson,QB,,Out
 N/A,Levi Wallace,CB,,Out
 N/A,Eyioma Uwazurike,DE,,Out
@@ -170,6 +180,9 @@ N/A,Tyler Badie,RB,"Oct 5: The Broncos placed Badie (back) on injured reserve Sa
 N/A,Alex Singleton,LB,"Oct 4: Singleton will have surgery to repair his ACL on Oct. 15, Zac Stevens of TheDNVR.com reports.",Injured Reserve
 N/A,Quinn Bailey,OT,"Aug 1: Bailey (ankle) was placed on injured reserve Thursday, Aric DiLalla of the Broncos' official site reports.",Injured Reserve
 N/A,N/A,N/A,N/A,N/A
+N/A,Alim McNeill,DT,"Dec 15: Speaking after Sunday's loss to the Bills, coach Dan Campbell said he doesn't feel good about the chances of McNeill (knee) playing again this season, Dave Birkett of the Detroit Free Press reports.",Questionable
+N/A,Carlton Davis III,CB,"Dec 15: Speaking after Sunday's loss to the Bills, coach Dan Campbell said he doesn't feel good about the chances of Davis (jaw) returning to play again this season, Dave Birkett of the Detroit Free Press reports.",Questionable
+N/A,Khalil Dorsey,CB,Dec 15: Dorsey (ankle) has been ruled out for the rest of Sunday's contest against the Bills.,Questionable
 N/A,Colby Sorsdal,OT,,Out
 N/A,Trevor Nowaske,LB,,Out
 N/A,Emmanuel Moseley,CB,,Out
@@ -192,14 +205,12 @@ N/A,David Bada,DT,"Aug 29: Bada (Achilles) reverted to IR on Wednesday, per the 
 N/A,John Cominsky,DE,Aug 29: Cominsky (knee) was placed on injured reserve Thursday.,Injured Reserve
 N/A,Antoine Green,WR,"Aug 13: Green (concussion) reverted to Detroit's reserve/injured list Tuesday after clearing waivers, per the NFL transaction log.",Injured Reserve
 N/A,Connor Galvin,OT,"Aug 12: Galvin (knee) reverted to Detroit's injured reserve list Monday, Aaron Wilson of KPRC 2 Houston reports.",Injured Reserve
-N/A,Nate Lynn,DE,Aug 11: Lynn (shoulder) was put on injured reserve by the Lions on Sunday.,Injured Reserve
-N/A,Netane Muti,G,Aug 1: Muti (shoulder) was placed on IR on Thursday.,Injured Reserve
-N/A,Michael Badgley,PK,Jul 27: The Lions placed Badgley (hamstring) on injured reserve Saturday.,Injured Reserve
 N/A,N/A,N/A,N/A,N/A
-N/A,Javon Bullard,S,"Dec 13: Bullard (ankle) has been ruled out ahead of Sunday night's matchup against the Seahawks, Wes Hodkiewicz of the Packers' official site reports.",Out
+N/A,Malik Heath,WR,Dec 15: Heath (coach's decision) is inactive for Sunday night's game against the Seahawks.,Out
+N/A,Jacob Monk,C,,Out
+N/A,Javon Bullard,S,,Out
+N/A,Jaire Alexander,CB,,Out
 N/A,Luke Musgrave,TE,"Dec 13: Musgrave (ankle) has been ruled out for Sunday's contest at Seattle, Wes Hodkiewicz of the Packers' official site reports.",Injured Reserve
-N/A,Jaire Alexander,CB,"Dec 13: Head coach Matt LaFleur told reporters Friday that Alexander (knee) won't play in Sunday night's matchup against the Seahawks, Matt Schneidman of The Athletic reports.",Out
-N/A,Corey Ballentine,CB,,Questionable
 N/A,MarShawn Lloyd,RB,"Nov 20: The Packers placed Lloyd (ankle/hamstring/appendix) on the non-football illness list Wednesday, Ian Rapoport of NFL Network reports.",Out
 N/A,Jordan Morgan,OT,"Nov 16: The Packers placed Morgan (shoulder) on injured reserve Saturday, Adam Schefter of ESPN reports.",Injured Reserve
 N/A,Tyler Davis,TE,"Aug 27: Davis (shoulder) was placed on injured reserve by the Packers on Tuesday, Wes Hodkiewicz of the team's official site reports.",Injured Reserve
@@ -224,6 +235,7 @@ N/A,Dalton Keene,TE,"Aug 21: Keene (knee) was placed on injured reserve Wednesda
 N/A,Jaylon Thomas,OT,"Aug 5: Thomas (undisclosed) reverted to injured reserve with the Texans on Sunday, per the NFL's transaction log.",Injured Reserve
 N/A,LaDarius Henderson,G,"Jul 18: Henderson (foot) reverted to the Texans' reserve/non-football injury list Thursday, Aaron Wilson of KPRC 2 Houston reports.",Out
 N/A,N/A,N/A,N/A,N/A
+N/A,Alec Pierce,WR,"Dec 15: Pierce has been ruled out of Sunday's game at Denver due to a concussion, Nate Atkins of The Indianapolis Star reports.",Out
 N/A,Atonio Mafi,G,,Out
 N/A,Isaiah Land,DE,,Out
 N/A,Darren Hall,S,,Out
@@ -256,7 +268,7 @@ N/A,Patrick Murtagh,TE,"Aug 28: Murtagh (ankle) reverted to injured reserve Wedn
 N/A,De'Shaan Dixon,DE,Aug 9: Dixon (knee) reverted to the injured reserve list with the Jaguars on Friday.,Injured Reserve
 N/A,David White Jr.,WR,"Jun 6: White (knee) reverted to the Jaguars' injured reserve list Thursday, Aaron Wilson of KPRC 2 Houston reports.",Injured Reserve
 N/A,N/A,N/A,N/A,N/A
-N/A,Patrick Mahomes,QB,"Dec 15: Coach Andy Reid said after Sunday's 21-7 win at Cleveland that Mahomes' left ankle isn't broken but ""is sore,"" Sam McDowell of The Kansas City Star reports.",Questionable
+N/A,Patrick Mahomes,QB,Dec 15: Mahomes was forced out of Sunday's game against the Browns with an ankle injury.,Questionable
 N/A,Chamarri Conner,S,Dec 15: Conner (concussion) has been ruled out for the rest of Sunday's game against the Browns.,Questionable
 N/A,Clyde Edwards-Helaire,RB,Dec 15: Edwards-Helaire is inactive for Sunday's game against the Browns.,Out
 N/A,Marlon Tuipulotu,DT,,Out
@@ -292,6 +304,8 @@ N/A,Malcolm Koonce,DE,"Sep 20: Koonce will undergo season-ending knee surgery ne
 N/A,Jeff Foreman,WR,"Aug 22: Foreman (knee) reverted to the Raiders' injured reserve Thursday after clearing waivers, Aaron Wilson of KPRC 2 Houston reports.",Injured Reserve
 N/A,Jake Johanning,G,"Jul 26: Johanning (undisclosed) reverted to the Raiders' IR on Friday, per the NFL's transaction log.",Injured Reserve
 N/A,N/A,N/A,N/A,N/A
+N/A,Zion Johnson,G,Dec 15: Johnson (ankle) is questionable to return to Sunday's contest against the Buccaneers.,Questionable
+N/A,Cam Hart,CB,"Dec 15: Hart suffered a concussion in Sunday's Week 15 game against Tampa Bay and has been ruled out from returning, Tyler Dragon of USA Today reports.",Questionable
 N/A,Denzel Perryman,LB,Dec 15: Perryman (groin) is inactive for Sunday's matchup with the Buccaneers.,Out
 N/A,Easton Stick,QB,Dec 15: Stick (coach's decision) is inactive for Sunday's game against the Buccaneers.,Out
 N/A,Jordan McFadden,G,,Out
@@ -359,6 +373,7 @@ N/A,Taki Taimani,DT,Nov 3: The Vikings placed Taimani (ankle) on injured reserve
 N/A,Jordan Kunaszyk,LB,"Aug 28: Kunaszyk (undisclosed) was placed on injured reserve Tuesday, Adam Caplan of SiriusXM NFL Radio reports.",Injured Reserve
 N/A,Mekhi Blackmon,CB,Jul 25: The Vikings placed Blackmon (knee) on injured reserve Thursday.,Injured Reserve
 N/A,N/A,N/A,N/A,N/A
+N/A,Christian Elliss,LB,Dec 15: Elliss (head) is questionable to return Sunday versus the Cardinals.,Questionable
 N/A,Cole Strange,G,Dec 15: Strange (knee) was listed as inactive ahead of Sunday's game versus Arizona.,Out
 N/A,Tyrese Robinson,G,,Out
 N/A,Joe Milton III,QB,,Out
@@ -440,6 +455,7 @@ N/A,Malik Taylor,WR,"Aug 18: The Jets placed Taylor on injured reserve with an u
 N/A,Jimmy Ciarlo,LB,"Aug 12: Ciarlo (knee) reverted to the Jets' injured reserve list Monday, Aaron Wilson of KPRC 2 Houston reports.",Injured Reserve
 N/A,Marcus Riley,WR,"Aug 3: Riley (undisclosed) reverted to the Jets' injured reserve Saturday after clearing waivers, Aaron Wilson of KPRC 2 Houston reports.",Injured Reserve
 N/A,N/A,N/A,N/A,N/A
+N/A,Landon Dickerson,G,Dec 15: Dickerson suffered a knee injury Sunday against Pittsburgh and is questionable to return.,Questionable
 N/A,Sydney Brown,S,"Dec 15: Brown (head) has been ruled out for the remainder of Sunday's contest against the Steelers, Ralph Vacchiano of Fox Sports reports.",Questionable
 N/A,Tanner McKee,QB,Dec 15: McKee (coach's decision) is inactive for Sunday's game against the Steelers.,Out
 N/A,Eli Ricks,CB,,Out
@@ -455,6 +471,9 @@ N/A,Byron Young,DT,Oct 25: The Eagles placed Young (hamstring) on injured reserv
 N/A,James Bradberry IV,CB,Aug 29: Bradberry (lower leg) was placed on the Eagles' injured reserve Thursday.,Injured Reserve
 N/A,Le'Raven Clark,OT,May 3: The Eagles placed Clark on injured reserve Friday.,Injured Reserve
 N/A,N/A,N/A,N/A,N/A
+N/A,T.J. Watt,LB,"Dec 15: Watt suffered an ankle injury in Sunday's loss to the Eagles, but X-rays came back negative, Mike DeFabo of The Athletic reports.",Questionable
+N/A,Justin Fields,QB,"Dec 15: Fields (abdomen) has been ruled out for the rest of Sunday's game against the Eagles, Brian Batko of the Pittsburgh Post-Gazette reports.",Questionable
+N/A,Donte Jackson,CB,"Dec 15: Jackson (back) has been ruled out for the remainder of Sunday's matchup versus Philadelphia, Brooke Pryor of ESPN.com reports.",Questionable
 N/A,Kyle Allen,QB,Dec 15: Allen (coach's decision) is inactive for Sunday's game against the Eagles.,Out
 N/A,Cory Trice Jr.,CB,,Out
 N/A,George Pickens,WR,,Out
@@ -498,12 +517,15 @@ N/A,Ambry Thomas,CB,"Aug 29: The 49ers placed Thomas (forearm) on injured reserv
 N/A,Elijah Mitchell,RB,"Aug 28: Mitchell will have surgery on his hamstring after being placed on injured reserve Tuesday, Nick Wagoner of ESPN.com reports.",Injured Reserve
 N/A,Drake Jackson,DE,"Aug 8: The 49ers placed Jackson on the reserve/PUP list with a knee injury Thursday and is expected to miss the 2024 season, Field Yates of ESPN reports.",Out
 N/A,N/A,N/A,N/A,N/A
-N/A,Artie Burns,CB,"Dec 15: Seattle activated Burns (toe) off injured reserve Saturday, but he remains doubtful to suit up Sunday against Green Bay, Bob Condotta of The Seattle Times reports.",Doubtful
+N/A,Artie Burns,CB,Dec 15: Burns (toe) is inactive for Sunday night's game versus Green Bay.,Out
+N/A,Cody White,WR,,Out
+N/A,Brady Russell,TE,,Out
+N/A,Jaren Hall,QB,,Out
+N/A,Trevis Gipson,LB,,Out
+N/A,Tre Brown,CB,,Out
+N/A,Kenneth Walker III,RB,Dec 15: Walker (calf) is inactive for Sunday's game against the Packers.,Out
 N/A,Jerrick Reed II,S,"Dec 14: Reed (quadriceps) was placed on injured reserve Saturday, Bob Condotta of The Seattle Times reports.",Injured Reserve
 N/A,K'Von Wallace,S,"Dec 13: Wallace (ankle) has been ruled out ahead of Sunday night's matchup against the Packers, John Boyle of the Seahawks' official site reports.",Injured Reserve
-N/A,Brady Russell,TE,"Dec 13: Russell (foot) has been ruled out for Sunday's game against the Packers, Bob Condotta of The Seattle Times reports.",Out
-N/A,Kenneth Walker III,RB,"Dec 13: Coach Mike Macdonald said Friday that Walker ""hasn't practiced yet (this week), so we listed him as doubtful"" for Sunday night's game against the Packers, John Boyle of the Seahawks' official site reports.",Doubtful
-N/A,Tre Brown,CB,"Dec 13: Brown (hamstring) has been ruled out for Sunday's game against the Packers, Bob Condotta of The Seattle Times reports.",Out
 N/A,Stone Forsythe,OT,Dec 6: Forsythe (hand) has been ruled out for Sunday's game against the Cardinals.,Injured Reserve
 N/A,Anthony Bradford,G,"Nov 27: The Seahawks placed Bradford (ankle) on injured reserve Wednesday, John Boyle of the team's official site reports.",Injured Reserve
 N/A,George Fant,OT,"Nov 13: The Seahawks placed Fant (knee) on injured reserve Wednesday, John Boyle of the team's official site reports.",Injured Reserve

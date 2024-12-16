@@ -724,7 +724,7 @@
                                 "text": "Yellow Card"
                             },
                             "clock": {
-                                "value": 4097.0,
+                                "value": 4096.0,
                                 "displayValue": "69'"
                             },
                             "team": {
@@ -812,7 +812,7 @@
                                 "text": "Goal"
                             },
                             "clock": {
-                                "value": 4880.0,
+                                "value": 4881.0,
                                 "displayValue": "82'"
                             },
                             "team": {
@@ -856,7 +856,7 @@
                                 "text": "Own Goal"
                             },
                             "clock": {
-                                "value": 5186.0,
+                                "value": 5188.0,
                                 "displayValue": "87'"
                             },
                             "team": {
@@ -988,7 +988,7 @@
                     "startDate": "2024-12-15T16:30Z",
                     "attendance": 0,
                     "timeValid": true,
-                    "recent": true,
+                    "recent": false,
                     "status": {
                         "clock": 5400.0,
                         "displayClock": "90'+6'",
@@ -1167,7 +1167,7 @@
                                 {
                                     "name": "possessionPct",
                                     "abbreviation": "PP",
-                                    "displayValue": "51.6"
+                                    "displayValue": "51.8"
                                 },
                                 {
                                     "name": "shotAssists",
@@ -1298,7 +1298,7 @@
                                 {
                                     "name": "possessionPct",
                                     "abbreviation": "PP",
-                                    "displayValue": "48.4"
+                                    "displayValue": "48.2"
                                 },
                                 {
                                     "name": "shotAssists",
@@ -1418,7 +1418,7 @@
                                 "text": "Yellow Card"
                             },
                             "clock": {
-                                "value": 2347.0,
+                                "value": 2346.0,
                                 "displayValue": "40'"
                             },
                             "team": {
@@ -1522,9 +1522,9 @@
                             "athletesInvolved": [
                                 {
                                     "id": "291630",
-                                    "displayName": "Amad ",
-                                    "shortName": "Amad ",
-                                    "fullName": "Amad ",
+                                    "displayName": "Amad",
+                                    "shortName": "Amad",
+                                    "fullName": "Amad",
                                     "jersey": "16",
                                     "team": {
                                         "id": "360"
@@ -1829,7 +1829,7 @@
                                 {
                                     "name": "possessionPct",
                                     "abbreviation": "PP",
-                                    "displayValue": "61.6"
+                                    "displayValue": "61.7"
                                 },
                                 {
                                     "name": "shotAssists",
@@ -1960,7 +1960,7 @@
                                 {
                                     "name": "possessionPct",
                                     "abbreviation": "PP",
-                                    "displayValue": "38.4"
+                                    "displayValue": "38.3"
                                 },
                                 {
                                     "name": "shotAssists",
@@ -2080,7 +2080,7 @@
                                 "text": "Goal"
                             },
                             "clock": {
-                                "value": 5353.0,
+                                "value": 5351.0,
                                 "displayValue": "90'"
                             },
                             "team": {
@@ -2169,7 +2169,7 @@
                             },
                             "clock": {
                                 "value": 5400.0,
-                                "displayValue": "90'+7'"
+                                "displayValue": "90'+6'"
                             },
                             "team": {
                                 "id": "337"
@@ -2299,7 +2299,7 @@
                         {
                             "description": "Chelsea moved within two points of leaders Liverpool in the Premier League on Sunday as goals from Marc Cucurella and Nicolas Jackson earned them victory over Brentford.",
                             "type": "Recap",
-                            "shortLinkText": "Chelsea beat Brentford to close in on Liverpool"
+                            "shortLinkText": "Chelsea beat Brentford, cut into gap to Liverpool"
                         }
                     ],
                     "wasSuspended": false,
@@ -2338,6 +2338,18 @@
                     "isExternal": false,
                     "isPremium": false,
                     "isHidden": false
+                },
+                {
+                    "language": "en-US",
+                    "rel": [
+                        "highlights",
+                        "desktop"
+                    ],
+                    "href": "https://www.espn.com/soccer/video/_/gameId/704432",
+                    "text": "Highlights",
+                    "shortText": "Highlights",
+                    "isExternal": false,
+                    "isPremium": false
                 },
                 {
                     "language": "en-US",
