@@ -64,7 +64,7 @@ def scrape_ufc_stats():
     # Save all data to a CSV file
     if all_fighters:
         df = pd.DataFrame(all_fighters)
-        df.to_csv("data/raw/ufc/ufc_fighter_stats.csv", index=False)
+        df.to_csv("data/csv/ufc/ufc_fighter_stats.csv", index=False)
         print("UFC fighter stats saved to data/raw/ufc/ufc_fighter_stats.csv")
     else:
         print("No fighter data was found to save.")

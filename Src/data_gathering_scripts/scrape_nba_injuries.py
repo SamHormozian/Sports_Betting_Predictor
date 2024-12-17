@@ -63,7 +63,7 @@ def scrape_nba_injuries():
     # Save data to CSV
     if injuries:
         df = pd.DataFrame(injuries)
-        df.to_csv("data/raw/nba/injuries.csv", index=False)
+        df.to_csv("data/csv/nba/injuries.csv", index=False)
         print("NBA injury data saved to data/raw/nba/injuries.csv")
     else:
         print("No injury data found.")
