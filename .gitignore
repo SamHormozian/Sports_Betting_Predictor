@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# Logs
+*.log
+logs/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cache files
+*.egg-info/
+.eggs/
+*.cache
+*.parquet
+
