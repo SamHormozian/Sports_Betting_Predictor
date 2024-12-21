@@ -10,5 +10,7 @@
 
 ### 2) Process Data (Optional)
 
-- The data collection and processing takes a while, but it ensures the most accurate information is being used to make the predictions.
+- The data collection and processing takes a while, but it ensures the most accurate information is being used to make the predictions via web scraping and api fetching
 - To run this process, run ``` master_script.py```
+
+### 3) Run predictive model
