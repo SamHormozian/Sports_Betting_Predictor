@@ -5,30 +5,47 @@ import os
 
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "../../data/raw")
 
-def scrape_nba_stats(year=2024):
-    """Scrape NBA player statistics from Basketball Reference."""
+def scrape_nba_stats(year):
+    """Scrape NBA player statistics from Basketball Reference for a given year."""
     url = f"https://www.basketball-reference.com/leagues/NBA_{year}_totals.html"
     response = requests.get(url)
 
     if response.status_code != 200:
         print(f"Failed to retrieve data for {year}")
-        return
+        return None
 
     soup = BeautifulSoup(response.content, "lxml")
     table = soup.find("table", {"id": "totals_stats"})
 
     # Convert the table to a pandas DataFrame
-    df = pd.read_html(str(table))[0]
-    df = df.dropna(subset=["Player"])  # Drop header duplicates
-    df = df[df["Player"] != "Player"]  # Filter out repeated headers
-
-    # Save to CSV
-    output_path = os.path.join(OUTPUT_DIR, f"nba_stats_{year}.csv")
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    df.to_csv(output_path, index=False)
-
-    print(f"NBA stats for {year} saved to {output_path}")
+    if table:
+        df = pd.read_html(str(table))[0]
+        df = df.dropna(subset=["Player"])  # Drop rows without player names
+        df = df[df["Player"] != "Player"]  # Filter out repeated headers
+        df["Year"] = year  # Add a year column to distinguish data
+        return df
+    else:
+        print(f"No data table found for {year}")
+        return None
 
 if __name__ == "__main__":
+    combined_data = []
+
     for year in range(2000, 2025):  # Scrape data from 2000 to 2024
-        scrape_nba_stats(year)
+        print(f"Scraping data for {year}...")
+        yearly_data = scrape_nba_stats(year)
+
+        if yearly_data is not None:
+            combined_data.append(yearly_data)
+
+    if combined_data:
+        # Concatenate all yearly DataFrames into one
+        final_df = pd.concat(combined_data, ignore_index=True)
+
+        # Save the combined data to a single CSV file
+        os.makedirs(OUTPUT_DIR, exist_ok=True)
+        output_path = os.path.join(OUTPUT_DIR, "nba_stats_2000_2024.csv")
+        final_df.to_csv(output_path, index=False)
+        print(f"Combined NBA stats saved to {output_path}")
+    else:
+        print("No data was scraped.")

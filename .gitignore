@@ -31,5 +31,4 @@ venv/
 *.cache
 *.parquet
 
-# CSV files
-*.csv
+

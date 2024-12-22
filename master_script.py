@@ -5,11 +5,14 @@ import subprocess
 PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
 SCRIPTS_DIR = os.path.join(PROJECT_ROOT, "scripts")
 SRC_DIR = os.path.join(PROJECT_ROOT, "src")
+DATA_GATHERING_DIR = os.path.join(SRC_DIR, "data_gathering")
 REQUIREMENTS_FILE = os.path.join(PROJECT_ROOT, "requirements.txt")
 
 # Paths to individual scripts
-DATA_GATHERING_SCRIPT = os.path.join(SCRIPTS_DIR, "data_gathering.py")
+NFL_SCRIPT = os.path.join(DATA_GATHERING_DIR, "nfl_scraper.py")
+NBA_SCRIPT = os.path.join(DATA_GATHERING_DIR, "nba_scraper.py")
 CLEANER_SCRIPT = os.path.join(SRC_DIR, "cleaner.py")
+DATA_COMBINING_SCRIPT = os.path.join(SRC_DIR, "data_combining.py")
 FEATURE_ENGINEER_SCRIPT = os.path.join(SRC_DIR, "feature_engineering.py")
 DATA_SPLITTING_SCRIPT = os.path.join(SRC_DIR, "data_splitting.py")
 
@@ -56,16 +59,28 @@ if __name__ == "__main__":
     # Step 0: Install dependencies
     install_dependencies()
 
-    # Step 1: Data Gathering
-    run_script(DATA_GATHERING_SCRIPT, "Data Gathering Pipeline")
+    # Step 1: Run NFL Stats Script
+    run_script(NFL_SCRIPT, "Combine NFL Stats Script")
 
-    # Step 2: Data Cleaning
+    # Step 2: Run NBA Stats Script
+    run_script(NBA_SCRIPT, "Combine NBA Stats Script")
+
+    # Step 3: Data Gathering
+    for script in os.listdir(DATA_GATHERING_DIR):
+        if script.endswith(".py") and script not in {"nfl_scraper.py", "nba_scraper.py"}:
+            script_path = os.path.join(DATA_GATHERING_DIR, script)
+            run_script(script_path, f"Running {script}")
+
+    # Step 4: Data Cleaning
     run_script(CLEANER_SCRIPT, "Data Cleaning Pipeline")
 
-    # Step 3: Feature Engineering
-    run_script(FEATURE_ENGINEER_SCRIPT, "Feature Engineering Pipeline")
+    # Step 5: Data Combining
+    run_script(DATA_COMBINING_SCRIPT, "Data Combining Pipeline")
 
-    # Step 4: Data Splitting
-    run_script(DATA_SPLITTING_SCRIPT, "Data Splitting Pipeline")
+    # Step 6: Feature Engineering
+    # run_script(FEATURE_ENGINEER_SCRIPT, "Feature Engineering Pipeline")
+
+    # Step 7: Data Splitting
+    # run_script(DATA_SPLITTING_SCRIPT, "Data Splitting Pipeline")
 
     print("\n All tasks completed successfully!")
