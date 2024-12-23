@@ -6,6 +6,7 @@ PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
 SCRIPTS_DIR = os.path.join(PROJECT_ROOT, "scripts")
 SRC_DIR = os.path.join(PROJECT_ROOT, "src")
 DATA_GATHERING_DIR = os.path.join(SRC_DIR, "data_gathering")
+MODELS_DIR = os.path.join(SRC_DIR, "models")
 REQUIREMENTS_FILE = os.path.join(PROJECT_ROOT, "requirements.txt")
 
 # Paths to individual scripts
@@ -15,6 +16,8 @@ CLEANER_SCRIPT = os.path.join(SRC_DIR, "cleaner.py")
 DATA_COMBINING_SCRIPT = os.path.join(SRC_DIR, "data_combining.py")
 FEATURE_ENGINEER_SCRIPT = os.path.join(SRC_DIR, "feature_engineering.py")
 DATA_SPLITTING_SCRIPT = os.path.join(SRC_DIR, "data_splitting.py")
+TRAIN_NN_SCRIPT = os.path.join(MODELS_DIR, "train_nn.py")
+EVALUATE_NN_SCRIPT = os.path.join(MODELS_DIR, "evaluate_nn.py")
 
 def install_dependencies():
     """
@@ -82,5 +85,11 @@ if __name__ == "__main__":
 
     # Step 7: Data Splitting
     run_script(DATA_SPLITTING_SCRIPT, "Data Splitting Pipeline")
+
+    # Step 8: Train Neural Network
+    run_script(TRAIN_NN_SCRIPT, "Train Neural Network")
+
+    # Step 9: Evaluate Neural Network
+    run_script(EVALUATE_NN_SCRIPT, "Evaluate Neural Network")
 
     print("\n All tasks completed successfully!")

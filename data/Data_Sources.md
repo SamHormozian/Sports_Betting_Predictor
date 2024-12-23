@@ -4,6 +4,6 @@
 
 - Basketball Reference: NBA stats, player data, and team performance. URL: https://www.basketball-reference.com/ (SCRAPED)
 
-- The odds API (BEtting data)
+- The odds API (Betting data)
 
 - Kaggle(Datasets)
