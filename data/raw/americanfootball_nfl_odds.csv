@@ -1,296 +1,200 @@
 commence_time,home_team,away_team,bookmaker,market_type,name,price,point
-2024-12-22T17:59:00Z,Washington Commanders,Philadelphia Eagles,DraftKings,spreads,Philadelphia Eagles,36.0,2.5
-2024-12-22T17:59:00Z,Washington Commanders,Philadelphia Eagles,DraftKings,spreads,Washington Commanders,1.0,-2.5
-2024-12-22T17:59:00Z,Washington Commanders,Philadelphia Eagles,FanDuel,h2h,Philadelphia Eagles,1.82,
-2024-12-22T17:59:00Z,Washington Commanders,Philadelphia Eagles,FanDuel,h2h,Washington Commanders,1.96,
-2024-12-22T17:59:00Z,Washington Commanders,Philadelphia Eagles,BetRivers,spreads,Philadelphia Eagles,1.85,2.0
-2024-12-22T17:59:00Z,Washington Commanders,Philadelphia Eagles,BetRivers,spreads,Washington Commanders,1.88,-2.0
-2024-12-22T17:59:00Z,Washington Commanders,Philadelphia Eagles,BetMGM,h2h,Philadelphia Eagles,1.8,
-2024-12-22T17:59:00Z,Washington Commanders,Philadelphia Eagles,BetMGM,h2h,Washington Commanders,2.0,
-2024-12-22T17:59:00Z,Washington Commanders,Philadelphia Eagles,Bovada,h2h,Philadelphia Eagles,1.91,
-2024-12-22T17:59:00Z,Washington Commanders,Philadelphia Eagles,Bovada,h2h,Washington Commanders,1.83,
-2024-12-22T18:02:00Z,Carolina Panthers,Arizona Cardinals,DraftKings,h2h,Arizona Cardinals,14.0,
-2024-12-22T18:02:00Z,Carolina Panthers,Arizona Cardinals,DraftKings,h2h,Carolina Panthers,1.03,
-2024-12-22T18:02:00Z,Carolina Panthers,Arizona Cardinals,FanDuel,h2h,Arizona Cardinals,15.0,
-2024-12-22T18:02:00Z,Carolina Panthers,Arizona Cardinals,FanDuel,h2h,Carolina Panthers,1.02,
-2024-12-22T18:02:00Z,Carolina Panthers,Arizona Cardinals,BetRivers,h2h,Arizona Cardinals,13.0,
-2024-12-22T18:02:00Z,Carolina Panthers,Arizona Cardinals,BetRivers,h2h,Carolina Panthers,1.01,
-2024-12-22T18:02:00Z,Carolina Panthers,Arizona Cardinals,BetRivers,spreads,Arizona Cardinals,1.13,5.5
-2024-12-22T18:02:00Z,Carolina Panthers,Arizona Cardinals,BetRivers,spreads,Carolina Panthers,5.1,-5.5
-2024-12-22T18:02:00Z,Carolina Panthers,Arizona Cardinals,BetRivers,totals,Over,5.0,65.5
-2024-12-22T18:02:00Z,Carolina Panthers,Arizona Cardinals,BetRivers,totals,Under,1.15,65.5
-2024-12-22T18:02:00Z,Carolina Panthers,Arizona Cardinals,BetMGM,h2h,Arizona Cardinals,16.0,
-2024-12-22T18:02:00Z,Carolina Panthers,Arizona Cardinals,BetMGM,h2h,Carolina Panthers,1.01,
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,DraftKings,h2h,Minnesota Vikings,1.29,
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,DraftKings,h2h,Seattle Seahawks,3.5,
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,DraftKings,spreads,Minnesota Vikings,1.8,-6.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,DraftKings,spreads,Seattle Seahawks,1.95,6.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,DraftKings,totals,Over,1.87,41.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,DraftKings,totals,Under,1.87,41.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,FanDuel,h2h,Minnesota Vikings,1.25,
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,FanDuel,h2h,Seattle Seahawks,3.85,
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,FanDuel,spreads,Minnesota Vikings,1.98,-7.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,FanDuel,spreads,Seattle Seahawks,1.78,7.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,FanDuel,totals,Over,2.04,41.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,FanDuel,totals,Under,1.74,41.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,MyBookie.ag,h2h,Minnesota Vikings,1.3,
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,MyBookie.ag,h2h,Seattle Seahawks,3.65,
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,MyBookie.ag,spreads,Minnesota Vikings,1.9,-7.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,MyBookie.ag,spreads,Seattle Seahawks,1.85,7.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,MyBookie.ag,totals,Over,1.8,43.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,MyBookie.ag,totals,Under,1.95,43.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetRivers,h2h,Minnesota Vikings,1.25,
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetRivers,h2h,Seattle Seahawks,3.2,
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetRivers,spreads,Minnesota Vikings,1.83,-7.0
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetRivers,spreads,Seattle Seahawks,1.87,7.0
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetRivers,totals,Over,1.87,41.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetRivers,totals,Under,1.87,41.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetMGM,h2h,Minnesota Vikings,1.29,
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetMGM,h2h,Seattle Seahawks,3.7,
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetMGM,spreads,Minnesota Vikings,1.77,-6.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetMGM,spreads,Seattle Seahawks,2.0,6.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetMGM,totals,Over,1.87,42.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetMGM,totals,Under,1.91,42.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,Bovada,h2h,Minnesota Vikings,1.26,
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,Bovada,h2h,Seattle Seahawks,3.65,
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,Bovada,spreads,Minnesota Vikings,1.83,-7.0
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,Bovada,spreads,Seattle Seahawks,1.91,7.0
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,Bovada,totals,Over,1.87,43.5
-2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,Bovada,totals,Under,1.87,43.5
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,DraftKings,h2h,Minnesota Vikings,1.08,
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,DraftKings,h2h,Seattle Seahawks,8.0,
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,FanDuel,h2h,Minnesota Vikings,1.26,
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,FanDuel,h2h,Seattle Seahawks,3.8,
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,MyBookie.ag,h2h,Minnesota Vikings,2.3,
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,MyBookie.ag,h2h,Seattle Seahawks,1.55,
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,MyBookie.ag,spreads,Minnesota Vikings,1.9,3.5
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,MyBookie.ag,spreads,Seattle Seahawks,1.8,-3.5
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,MyBookie.ag,totals,Over,1.75,50.5
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,MyBookie.ag,totals,Under,2.0,50.5
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetRivers,h2h,Minnesota Vikings,1.23,
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetRivers,h2h,Seattle Seahawks,3.35,
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetRivers,spreads,Minnesota Vikings,1.27,-2.5
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetRivers,spreads,Seattle Seahawks,3.45,2.5
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetMGM,h2h,Minnesota Vikings,1.04,
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,BetMGM,h2h,Seattle Seahawks,10.5,
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,Bovada,h2h,Minnesota Vikings,1.54,
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,Bovada,h2h,Seattle Seahawks,2.4,
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,Bovada,spreads,Minnesota Vikings,1.91,-3.0
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,Bovada,spreads,Seattle Seahawks,1.83,3.0
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,Bovada,totals,Over,1.91,54.0
+2024-12-22T21:06:00Z,Seattle Seahawks,Minnesota Vikings,Bovada,totals,Under,1.83,54.0
 2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,DraftKings,h2h,Miami Dolphins,1.83,
 2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,DraftKings,h2h,San Francisco 49ers,1.91,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,DraftKings,spreads,Miami Dolphins,1.91,-1.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,DraftKings,spreads,San Francisco 49ers,1.83,1.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,DraftKings,totals,Over,1.87,42.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,DraftKings,totals,Under,1.87,42.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,FanDuel,h2h,Miami Dolphins,1.98,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,FanDuel,h2h,San Francisco 49ers,1.8,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,FanDuel,spreads,Miami Dolphins,1.87,1.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,FanDuel,spreads,San Francisco 49ers,1.88,-1.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,FanDuel,totals,Over,2.0,44.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,FanDuel,totals,Under,1.77,44.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,MyBookie.ag,h2h,Miami Dolphins,2.1,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,MyBookie.ag,h2h,San Francisco 49ers,1.75,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,MyBookie.ag,spreads,Miami Dolphins,1.9,2.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,MyBookie.ag,spreads,San Francisco 49ers,1.9,-2.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,MyBookie.ag,totals,Over,1.85,43.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,MyBookie.ag,totals,Under,1.85,43.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetOnline.ag,h2h,Miami Dolphins,1.95,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetOnline.ag,h2h,San Francisco 49ers,1.87,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetOnline.ag,spreads,Miami Dolphins,1.91,1.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetOnline.ag,spreads,San Francisco 49ers,1.91,-1.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetOnline.ag,totals,Over,1.91,44.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetOnline.ag,totals,Under,1.91,44.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,LowVig.ag,h2h,Miami Dolphins,2.05,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,LowVig.ag,h2h,San Francisco 49ers,1.8,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,LowVig.ag,spreads,Miami Dolphins,1.87,2.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,LowVig.ag,spreads,San Francisco 49ers,2.04,-2.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,LowVig.ag,totals,Over,1.93,44.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,LowVig.ag,totals,Under,1.93,44.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetRivers,h2h,Miami Dolphins,1.81,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetRivers,h2h,San Francisco 49ers,1.93,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetRivers,spreads,Miami Dolphins,1.85,-1.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetRivers,spreads,San Francisco 49ers,1.88,1.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetRivers,totals,Over,1.85,42.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetRivers,totals,Under,1.88,42.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetUS,h2h,Miami Dolphins,2.05,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetUS,h2h,San Francisco 49ers,1.8,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetUS,spreads,Miami Dolphins,1.95,1.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetUS,spreads,San Francisco 49ers,1.87,-1.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetUS,totals,Over,1.91,44.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetUS,totals,Under,1.91,44.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetMGM,h2h,Miami Dolphins,2.0,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetMGM,h2h,San Francisco 49ers,1.8,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetMGM,spreads,Miami Dolphins,1.87,1.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetMGM,spreads,San Francisco 49ers,1.87,-1.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetMGM,totals,Over,1.83,43.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetMGM,totals,Under,1.91,43.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,Bovada,h2h,Miami Dolphins,2.1,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,Bovada,h2h,San Francisco 49ers,1.77,
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,Bovada,spreads,Miami Dolphins,2.0,1.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,Bovada,spreads,San Francisco 49ers,1.83,-1.5
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,Bovada,totals,Over,1.91,44.0
-2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,Bovada,totals,Under,1.91,44.0
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,DraftKings,h2h,Jacksonville Jaguars,1.83,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,DraftKings,h2h,Las Vegas Raiders,1.91,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,DraftKings,spreads,Jacksonville Jaguars,1.91,-1.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,DraftKings,spreads,Las Vegas Raiders,1.83,1.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,DraftKings,totals,Over,1.83,39.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,DraftKings,totals,Under,1.91,39.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetUS,h2h,Jacksonville Jaguars,2.15,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetUS,h2h,Las Vegas Raiders,1.74,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetUS,spreads,Jacksonville Jaguars,2.05,1.0
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetUS,spreads,Las Vegas Raiders,1.8,-1.0
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetUS,totals,Over,1.91,42.0
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetUS,totals,Under,1.91,42.0
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,FanDuel,h2h,Jacksonville Jaguars,2.0,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,FanDuel,h2h,Las Vegas Raiders,1.78,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,FanDuel,spreads,Jacksonville Jaguars,1.8,2.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,FanDuel,spreads,Las Vegas Raiders,1.96,-2.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,FanDuel,totals,Over,1.93,41.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,FanDuel,totals,Under,1.83,41.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,MyBookie.ag,h2h,Jacksonville Jaguars,2.0,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,MyBookie.ag,h2h,Las Vegas Raiders,1.8,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,MyBookie.ag,spreads,Jacksonville Jaguars,1.9,1.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,MyBookie.ag,spreads,Las Vegas Raiders,1.9,-1.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,MyBookie.ag,totals,Over,1.95,40.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,MyBookie.ag,totals,Under,1.8,40.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetOnline.ag,h2h,Jacksonville Jaguars,2.15,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetOnline.ag,h2h,Las Vegas Raiders,1.74,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetOnline.ag,spreads,Jacksonville Jaguars,1.87,2.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetOnline.ag,spreads,Las Vegas Raiders,1.95,-2.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetOnline.ag,totals,Over,1.88,41.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetOnline.ag,totals,Under,1.93,41.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,LowVig.ag,h2h,Jacksonville Jaguars,2.15,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,LowVig.ag,h2h,Las Vegas Raiders,1.74,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,LowVig.ag,spreads,Jacksonville Jaguars,2.02,1.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,LowVig.ag,spreads,Las Vegas Raiders,1.88,-1.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,LowVig.ag,totals,Over,1.91,41.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,LowVig.ag,totals,Under,1.96,41.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetRivers,h2h,Jacksonville Jaguars,1.91,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetRivers,h2h,Las Vegas Raiders,1.85,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetRivers,spreads,Jacksonville Jaguars,1.85,1.0
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetRivers,spreads,Las Vegas Raiders,1.88,-1.0
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetRivers,totals,Over,1.83,40.0
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetRivers,totals,Under,1.89,40.0
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetMGM,h2h,Jacksonville Jaguars,1.91,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetMGM,h2h,Las Vegas Raiders,1.87,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetMGM,spreads,Jacksonville Jaguars,1.8,1.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetMGM,spreads,Las Vegas Raiders,1.95,-1.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetMGM,totals,Over,1.8,40.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetMGM,totals,Under,1.95,40.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,Bovada,h2h,Jacksonville Jaguars,2.15,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,Bovada,h2h,Las Vegas Raiders,1.74,
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,Bovada,spreads,Jacksonville Jaguars,1.91,2.0
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,Bovada,spreads,Las Vegas Raiders,1.91,-2.0
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,Bovada,totals,Over,1.91,41.5
-2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,Bovada,totals,Under,1.91,41.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,DraftKings,h2h,Buffalo Bills,1.08,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,DraftKings,h2h,New England Patriots,8.0,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,DraftKings,spreads,Buffalo Bills,1.8,-13.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,DraftKings,spreads,New England Patriots,1.95,13.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,DraftKings,totals,Over,1.83,50.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,DraftKings,totals,Under,1.91,50.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,FanDuel,h2h,Buffalo Bills,1.12,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,FanDuel,h2h,New England Patriots,6.0,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,FanDuel,spreads,Buffalo Bills,1.98,-12.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,FanDuel,spreads,New England Patriots,1.78,12.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,FanDuel,totals,Over,1.74,48.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,FanDuel,totals,Under,2.04,48.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,MyBookie.ag,h2h,Buffalo Bills,1.12,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,MyBookie.ag,h2h,New England Patriots,6.25,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,MyBookie.ag,spreads,Buffalo Bills,1.7,-13.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,MyBookie.ag,spreads,New England Patriots,1.9,13.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,MyBookie.ag,totals,Over,1.9,47.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,MyBookie.ag,totals,Under,1.8,47.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,LowVig.ag,h2h,Buffalo Bills,1.08,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,LowVig.ag,h2h,New England Patriots,8.9,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,LowVig.ag,spreads,Buffalo Bills,1.96,-14.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,LowVig.ag,spreads,New England Patriots,1.94,14.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,LowVig.ag,totals,Over,1.93,48.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,LowVig.ag,totals,Under,1.93,48.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetOnline.ag,h2h,Buffalo Bills,1.08,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetOnline.ag,h2h,New England Patriots,8.9,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetOnline.ag,spreads,Buffalo Bills,1.9,-14.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetOnline.ag,spreads,New England Patriots,1.92,14.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetOnline.ag,totals,Over,1.91,48.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetOnline.ag,totals,Under,1.91,48.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetRivers,h2h,Buffalo Bills,1.12,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetRivers,h2h,New England Patriots,5.6,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetRivers,spreads,Buffalo Bills,1.88,-14.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetRivers,spreads,New England Patriots,1.83,14.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetRivers,totals,Over,1.85,50.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetRivers,totals,Under,1.87,50.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetUS,h2h,Buffalo Bills,1.08,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetUS,h2h,New England Patriots,8.8,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetUS,spreads,Buffalo Bills,1.87,-14.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetUS,spreads,New England Patriots,1.95,14.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetUS,totals,Over,1.87,48.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetUS,totals,Under,1.95,48.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetMGM,h2h,Buffalo Bills,1.12,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetMGM,h2h,New England Patriots,6.25,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetMGM,spreads,Buffalo Bills,1.87,-13.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetMGM,spreads,New England Patriots,1.91,13.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetMGM,totals,Over,1.83,49.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetMGM,totals,Under,1.91,49.5
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,Bovada,h2h,Buffalo Bills,1.13,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,Bovada,h2h,New England Patriots,5.5,
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,Bovada,spreads,Buffalo Bills,1.83,-11.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,Bovada,spreads,New England Patriots,1.91,11.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,Bovada,totals,Over,1.87,51.0
-2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,Bovada,totals,Under,1.87,51.0
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DraftKings,h2h,Dallas Cowboys,2.7,
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DraftKings,h2h,Tampa Bay Buccaneers,1.49,
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DraftKings,spreads,Dallas Cowboys,1.91,4.0
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DraftKings,spreads,Tampa Bay Buccaneers,1.91,-4.0
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DraftKings,totals,Over,1.93,47.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DraftKings,totals,Under,1.89,47.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,FanDuel,h2h,Dallas Cowboys,2.76,
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,FanDuel,h2h,Tampa Bay Buccaneers,1.48,
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,DraftKings,spreads,Miami Dolphins,1.95,-1.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,DraftKings,spreads,San Francisco 49ers,1.8,1.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,DraftKings,totals,Over,1.83,42.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,DraftKings,totals,Under,1.91,42.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,FanDuel,h2h,Miami Dolphins,1.68,
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,FanDuel,h2h,San Francisco 49ers,2.14,
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,FanDuel,spreads,Miami Dolphins,1.78,-1.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,FanDuel,spreads,San Francisco 49ers,1.98,1.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,FanDuel,totals,Over,2.0,43.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,FanDuel,totals,Under,1.77,43.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,MyBookie.ag,h2h,Miami Dolphins,1.4,
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,MyBookie.ag,h2h,San Francisco 49ers,2.85,
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,MyBookie.ag,spreads,Miami Dolphins,1.95,-3.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,MyBookie.ag,spreads,San Francisco 49ers,1.85,3.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,MyBookie.ag,totals,Over,1.75,42.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,MyBookie.ag,totals,Under,2.0,42.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetRivers,h2h,Miami Dolphins,1.73,
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetRivers,h2h,San Francisco 49ers,2.05,
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetRivers,spreads,Miami Dolphins,1.89,-1.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetRivers,spreads,San Francisco 49ers,1.83,1.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetRivers,totals,Over,1.85,43.0
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetRivers,totals,Under,1.87,43.0
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetMGM,h2h,Miami Dolphins,1.8,
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetMGM,h2h,San Francisco 49ers,2.0,
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetMGM,spreads,Miami Dolphins,1.91,-1.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetMGM,spreads,San Francisco 49ers,1.83,1.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetMGM,totals,Over,1.95,43.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,BetMGM,totals,Under,1.8,43.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,Bovada,h2h,Miami Dolphins,1.33,
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,Bovada,h2h,San Francisco 49ers,3.2,
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,Bovada,spreads,Miami Dolphins,1.87,-5.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,Bovada,spreads,San Francisco 49ers,1.87,5.5
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,Bovada,totals,Over,1.87,42.0
+2024-12-22T21:25:38Z,Miami Dolphins,San Francisco 49ers,Bovada,totals,Under,1.87,42.0
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,DraftKings,h2h,Jacksonville Jaguars,3.6,
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,DraftKings,h2h,Las Vegas Raiders,1.28,
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,DraftKings,spreads,Jacksonville Jaguars,2.3,4.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,DraftKings,spreads,Las Vegas Raiders,1.6,-4.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,DraftKings,totals,Over,1.87,40.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,DraftKings,totals,Under,1.87,40.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,FanDuel,h2h,Jacksonville Jaguars,3.2,
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,FanDuel,h2h,Las Vegas Raiders,1.34,
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,FanDuel,spreads,Jacksonville Jaguars,1.94,4.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,FanDuel,spreads,Las Vegas Raiders,1.82,-4.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,FanDuel,totals,Over,1.91,41.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,FanDuel,totals,Under,1.85,41.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,MyBookie.ag,h2h,Jacksonville Jaguars,1.7,
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,MyBookie.ag,h2h,Las Vegas Raiders,2.05,
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,MyBookie.ag,spreads,Jacksonville Jaguars,1.75,-0.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,MyBookie.ag,spreads,Las Vegas Raiders,2.05,0.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,MyBookie.ag,totals,Over,1.9,38.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,MyBookie.ag,totals,Under,1.85,38.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetRivers,h2h,Jacksonville Jaguars,3.3,
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetRivers,h2h,Las Vegas Raiders,1.32,
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetRivers,spreads,Jacksonville Jaguars,2.08,4.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetRivers,spreads,Las Vegas Raiders,1.68,-4.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetRivers,totals,Over,1.83,41.0
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetRivers,totals,Under,1.88,41.0
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetMGM,h2h,Jacksonville Jaguars,3.7,
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetMGM,h2h,Las Vegas Raiders,1.29,
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetMGM,spreads,Jacksonville Jaguars,2.25,4.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetMGM,spreads,Las Vegas Raiders,1.61,-4.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetMGM,totals,Over,1.91,40.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,BetMGM,totals,Under,1.83,40.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,Bovada,h2h,Jacksonville Jaguars,3.9,
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,Bovada,h2h,Las Vegas Raiders,1.23,
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,Bovada,spreads,Jacksonville Jaguars,1.95,6.0
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,Bovada,spreads,Las Vegas Raiders,1.8,-6.0
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,Bovada,totals,Over,1.87,36.5
+2024-12-22T21:26:00Z,Las Vegas Raiders,Jacksonville Jaguars,Bovada,totals,Under,1.87,36.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,DraftKings,spreads,Buffalo Bills,2.4,-10.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,DraftKings,spreads,New England Patriots,1.56,10.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,DraftKings,totals,Over,1.69,40.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,DraftKings,totals,Under,2.14,40.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,FanDuel,h2h,Buffalo Bills,1.0,
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,FanDuel,h2h,New England Patriots,36.0,
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,FanDuel,spreads,Buffalo Bills,1.77,-10.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,FanDuel,spreads,New England Patriots,2.0,10.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,FanDuel,totals,Over,1.94,41.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,FanDuel,totals,Under,1.82,41.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,MyBookie.ag,spreads,Buffalo Bills,1.85,-10.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,MyBookie.ag,spreads,New England Patriots,1.9,10.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,MyBookie.ag,totals,Over,1.9,45.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,MyBookie.ag,totals,Under,1.8,45.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetRivers,spreads,Buffalo Bills,2.8,-10.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetRivers,spreads,New England Patriots,1.4,10.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetRivers,totals,Over,2.12,41.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetRivers,totals,Under,1.68,41.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetMGM,h2h,Buffalo Bills,1.01,
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetMGM,h2h,New England Patriots,26.0,
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetMGM,spreads,Buffalo Bills,2.35,-11.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetMGM,spreads,New England Patriots,1.57,11.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetMGM,totals,Over,2.25,42.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,BetMGM,totals,Under,1.62,42.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,Bovada,h2h,Buffalo Bills,1.06,
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,Bovada,h2h,New England Patriots,8.5,
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,Bovada,spreads,Buffalo Bills,1.87,-8.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,Bovada,spreads,New England Patriots,1.87,8.5
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,Bovada,totals,Over,2.0,45.0
+2024-12-22T21:27:00Z,Buffalo Bills,New England Patriots,Bovada,totals,Under,1.77,45.0
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DraftKings,h2h,Dallas Cowboys,2.8,
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DraftKings,h2h,Tampa Bay Buccaneers,1.46,
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DraftKings,spreads,Dallas Cowboys,1.87,4.5
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DraftKings,spreads,Tampa Bay Buccaneers,1.95,-4.5
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DraftKings,totals,Over,1.91,47.5
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DraftKings,totals,Under,1.91,47.5
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,FanDuel,h2h,Dallas Cowboys,2.72,
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,FanDuel,h2h,Tampa Bay Buccaneers,1.49,
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,FanDuel,spreads,Dallas Cowboys,1.96,3.5
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,FanDuel,spreads,Tampa Bay Buccaneers,1.85,-3.5
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,FanDuel,totals,Over,1.91,47.5
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,FanDuel,totals,Under,1.91,47.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,MyBookie.ag,h2h,Dallas Cowboys,2.68,
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,MyBookie.ag,h2h,Tampa Bay Buccaneers,1.48,
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,MyBookie.ag,h2h,Dallas Cowboys,2.71,
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,MyBookie.ag,h2h,Tampa Bay Buccaneers,1.47,
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,MyBookie.ag,spreads,Dallas Cowboys,1.87,4.0
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,MyBookie.ag,spreads,Tampa Bay Buccaneers,1.95,-4.0
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,MyBookie.ag,totals,Over,1.91,47.5
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,MyBookie.ag,totals,Under,1.91,47.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,LowVig.ag,h2h,Dallas Cowboys,2.75,
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,LowVig.ag,h2h,Tampa Bay Buccaneers,1.49,
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,LowVig.ag,spreads,Dallas Cowboys,1.91,4.0
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,LowVig.ag,spreads,Tampa Bay Buccaneers,2.0,-4.0
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,LowVig.ag,h2h,Dallas Cowboys,2.85,
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,LowVig.ag,h2h,Tampa Bay Buccaneers,1.47,
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,LowVig.ag,spreads,Dallas Cowboys,2.02,3.5
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,LowVig.ag,spreads,Tampa Bay Buccaneers,1.88,-3.5
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,LowVig.ag,totals,Over,1.93,47.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,LowVig.ag,totals,Under,1.93,47.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetOnline.ag,h2h,Dallas Cowboys,2.75,
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetOnline.ag,h2h,Tampa Bay Buccaneers,1.49,
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,LowVig.ag,totals,Under,1.94,47.5
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetOnline.ag,h2h,Dallas Cowboys,2.85,
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetOnline.ag,h2h,Tampa Bay Buccaneers,1.47,
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetOnline.ag,spreads,Dallas Cowboys,1.93,3.5
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetOnline.ag,spreads,Tampa Bay Buccaneers,1.88,-3.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetOnline.ag,totals,Over,1.91,47.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetOnline.ag,totals,Under,1.91,47.5
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetOnline.ag,totals,Over,1.9,47.5
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetOnline.ag,totals,Under,1.92,47.5
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetRivers,h2h,Dallas Cowboys,2.7,
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetRivers,h2h,Tampa Bay Buccaneers,1.48,
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetRivers,spreads,Dallas Cowboys,1.93,3.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetRivers,spreads,Tampa Bay Buccaneers,1.88,-3.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetRivers,totals,Over,1.91,47.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetRivers,totals,Under,1.91,47.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetUS,h2h,Dallas Cowboys,2.75,
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetUS,h2h,Tampa Bay Buccaneers,1.49,
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetRivers,spreads,Dallas Cowboys,1.88,4.0
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetRivers,spreads,Tampa Bay Buccaneers,1.93,-4.0
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetRivers,totals,Over,1.92,47.5
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetRivers,totals,Under,1.89,47.5
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetUS,h2h,Dallas Cowboys,2.8,
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetUS,h2h,Tampa Bay Buccaneers,1.48,
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetUS,spreads,Dallas Cowboys,1.95,3.5
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetUS,spreads,Tampa Bay Buccaneers,1.87,-3.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetUS,totals,Over,1.91,47.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetUS,totals,Under,1.91,47.5
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetUS,totals,Over,1.95,48.0
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetUS,totals,Under,1.87,48.0
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetMGM,h2h,Dallas Cowboys,2.7,
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetMGM,h2h,Tampa Bay Buccaneers,1.48,
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetMGM,spreads,Dallas Cowboys,1.91,4.0
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetMGM,spreads,Tampa Bay Buccaneers,1.91,-4.0
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetMGM,totals,Over,1.91,47.5
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,BetMGM,totals,Under,1.91,47.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,Bovada,h2h,Dallas Cowboys,2.75,
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,Bovada,h2h,Tampa Bay Buccaneers,1.48,
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,Bovada,spreads,Dallas Cowboys,2.0,3.5
-2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,Bovada,spreads,Tampa Bay Buccaneers,1.83,-3.5
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,Bovada,h2h,Dallas Cowboys,2.8,
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,Bovada,h2h,Tampa Bay Buccaneers,1.45,
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,Bovada,spreads,Dallas Cowboys,1.91,4.0
+2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,Bovada,spreads,Tampa Bay Buccaneers,1.91,-4.0
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,Bovada,totals,Over,1.87,47.5
 2024-12-23T01:21:00Z,Dallas Cowboys,Tampa Bay Buccaneers,Bovada,totals,Under,1.95,47.5
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,DraftKings,h2h,Green Bay Packers,1.11,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,DraftKings,h2h,New Orleans Saints,7.0,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,DraftKings,spreads,Green Bay Packers,1.91,-14.0
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,DraftKings,spreads,New Orleans Saints,1.91,14.0
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,DraftKings,totals,Over,1.91,42.5
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,DraftKings,totals,Under,1.91,42.5
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,DraftKings,totals,Over,1.89,42.5
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,DraftKings,totals,Under,1.93,42.5
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetUS,h2h,Green Bay Packers,1.08,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetUS,h2h,New Orleans Saints,8.8,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetUS,spreads,Green Bay Packers,1.91,-14.0
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetUS,spreads,New Orleans Saints,1.91,14.0
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetUS,totals,Over,1.87,42.0
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetUS,totals,Under,1.95,42.0
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,FanDuel,h2h,Green Bay Packers,1.1,
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,FanDuel,h2h,New Orleans Saints,7.6,
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetUS,totals,Over,1.91,42.5
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetUS,totals,Under,1.91,42.5
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,FanDuel,h2h,Green Bay Packers,1.09,
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,FanDuel,h2h,New Orleans Saints,8.3,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,FanDuel,spreads,Green Bay Packers,1.98,-14.5
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,FanDuel,spreads,New Orleans Saints,1.83,14.5
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,FanDuel,totals,Over,1.91,42.5
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,FanDuel,totals,Under,1.91,42.5
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,FanDuel,totals,Over,1.87,42.5
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,FanDuel,totals,Under,1.95,42.5
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,MyBookie.ag,h2h,Green Bay Packers,1.07,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,MyBookie.ag,h2h,New Orleans Saints,8.9,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,MyBookie.ag,spreads,Green Bay Packers,1.91,-14.0
@@ -301,20 +205,20 @@ commence_time,home_team,away_team,bookmaker,market_type,name,price,point
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,LowVig.ag,h2h,New Orleans Saints,8.9,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,LowVig.ag,spreads,Green Bay Packers,1.92,-14.0
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,LowVig.ag,spreads,New Orleans Saints,1.99,14.0
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,LowVig.ag,totals,Over,1.88,42.0
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,LowVig.ag,totals,Under,1.98,42.0
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,LowVig.ag,totals,Over,1.93,42.5
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,LowVig.ag,totals,Under,1.93,42.5
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetOnline.ag,h2h,Green Bay Packers,1.08,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetOnline.ag,h2h,New Orleans Saints,8.9,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetOnline.ag,spreads,Green Bay Packers,1.88,-14.0
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetOnline.ag,spreads,New Orleans Saints,1.94,14.0
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetOnline.ag,totals,Over,1.87,42.0
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetOnline.ag,totals,Under,1.95,42.0
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetOnline.ag,totals,Over,1.91,42.5
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetOnline.ag,totals,Under,1.91,42.5
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetRivers,h2h,Green Bay Packers,1.1,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetRivers,h2h,New Orleans Saints,7.5,
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetRivers,spreads,Green Bay Packers,1.92,-14.0
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetRivers,spreads,New Orleans Saints,1.89,14.0
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetRivers,totals,Over,1.89,42.0
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetRivers,totals,Under,1.92,42.0
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetRivers,spreads,Green Bay Packers,1.89,-14.0
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetRivers,spreads,New Orleans Saints,1.92,14.0
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetRivers,totals,Over,1.91,42.5
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetRivers,totals,Under,1.91,42.5
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetMGM,h2h,Green Bay Packers,1.1,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetMGM,h2h,New Orleans Saints,7.25,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,BetMGM,spreads,Green Bay Packers,1.91,-14.0
@@ -325,22 +229,28 @@ commence_time,home_team,away_team,bookmaker,market_type,name,price,point
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,Bovada,h2h,New Orleans Saints,8.25,
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,Bovada,spreads,Green Bay Packers,1.87,-14.0
 2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,Bovada,spreads,New Orleans Saints,1.95,14.0
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,Bovada,totals,Over,1.87,42.0
-2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,Bovada,totals,Under,1.95,42.0
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,Bovada,totals,Over,1.91,42.5
+2024-12-24T01:15:00Z,Green Bay Packers,New Orleans Saints,Bovada,totals,Under,1.91,42.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,FanDuel,h2h,Kansas City Chiefs,1.75,
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,FanDuel,h2h,Pittsburgh Steelers,2.14,
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,FanDuel,spreads,Kansas City Chiefs,1.91,-2.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,FanDuel,spreads,Pittsburgh Steelers,1.91,2.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,FanDuel,totals,Over,1.91,43.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,FanDuel,totals,Under,1.91,43.5
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,DraftKings,h2h,Kansas City Chiefs,1.7,
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,DraftKings,h2h,Pittsburgh Steelers,2.2,
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,DraftKings,spreads,Kansas City Chiefs,1.91,-2.5
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,DraftKings,spreads,Pittsburgh Steelers,1.91,2.5
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,DraftKings,totals,Over,1.91,43.0
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,DraftKings,totals,Under,1.91,43.0
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetMGM,h2h,Kansas City Chiefs,1.67,
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetMGM,h2h,Pittsburgh Steelers,2.25,
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetMGM,spreads,Kansas City Chiefs,1.87,-2.5
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetMGM,spreads,Pittsburgh Steelers,1.95,2.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,DraftKings,totals,Over,1.91,43.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,DraftKings,totals,Under,1.91,43.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetMGM,h2h,Kansas City Chiefs,1.74,
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetMGM,h2h,Pittsburgh Steelers,2.15,
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetMGM,spreads,Kansas City Chiefs,1.91,-2.0
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetMGM,spreads,Pittsburgh Steelers,1.91,2.0
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetMGM,totals,Over,1.91,43.0
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetMGM,totals,Under,1.91,43.0
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetUS,spreads,Kansas City Chiefs,1.83,-2.5
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetUS,spreads,Pittsburgh Steelers,2.0,2.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetUS,spreads,Kansas City Chiefs,1.95,-2.0
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetUS,spreads,Pittsburgh Steelers,1.87,2.0
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetUS,totals,Over,1.91,43.0
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetUS,totals,Under,1.91,43.0
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,MyBookie.ag,h2h,Kansas City Chiefs,1.69,
@@ -349,36 +259,42 @@ commence_time,home_team,away_team,bookmaker,market_type,name,price,point
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,MyBookie.ag,spreads,Pittsburgh Steelers,1.91,2.5
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,MyBookie.ag,totals,Over,1.91,43.5
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,MyBookie.ag,totals,Under,1.91,43.5
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,LowVig.ag,spreads,Kansas City Chiefs,1.86,-2.5
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,LowVig.ag,spreads,Pittsburgh Steelers,2.05,2.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,LowVig.ag,spreads,Kansas City Chiefs,2.0,-2.0
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,LowVig.ag,spreads,Pittsburgh Steelers,1.91,2.0
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,LowVig.ag,totals,Over,1.93,43.0
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,LowVig.ag,totals,Under,1.93,43.0
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetOnline.ag,spreads,Kansas City Chiefs,1.83,-2.5
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetOnline.ag,spreads,Pittsburgh Steelers,2.0,2.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetOnline.ag,spreads,Kansas City Chiefs,1.95,-2.0
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetOnline.ag,spreads,Pittsburgh Steelers,1.87,2.0
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetOnline.ag,totals,Over,1.91,43.0
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetOnline.ag,totals,Under,1.91,43.0
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetRivers,h2h,Kansas City Chiefs,1.68,
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetRivers,h2h,Pittsburgh Steelers,2.2,
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetRivers,spreads,Kansas City Chiefs,1.89,-2.5
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetRivers,spreads,Pittsburgh Steelers,1.92,2.5
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetRivers,totals,Over,1.92,43.5
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetRivers,totals,Under,1.89,43.5
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,Bovada,h2h,Kansas City Chiefs,1.71,
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,Bovada,h2h,Pittsburgh Steelers,2.2,
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,Bovada,spreads,Kansas City Chiefs,1.91,-2.5
-2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,Bovada,spreads,Pittsburgh Steelers,1.91,2.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetRivers,h2h,Kansas City Chiefs,1.72,
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetRivers,h2h,Pittsburgh Steelers,2.16,
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetRivers,spreads,Kansas City Chiefs,1.91,-2.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetRivers,spreads,Pittsburgh Steelers,1.91,2.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetRivers,totals,Over,1.93,43.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,BetRivers,totals,Under,1.88,43.5
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,Bovada,h2h,Kansas City Chiefs,1.74,
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,Bovada,h2h,Pittsburgh Steelers,2.15,
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,Bovada,spreads,Kansas City Chiefs,1.91,-2.0
+2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,Bovada,spreads,Pittsburgh Steelers,1.91,2.0
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,Bovada,totals,Over,1.91,43.0
 2024-12-25T18:00:00Z,Pittsburgh Steelers,Kansas City Chiefs,Bovada,totals,Under,1.91,43.0
-2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,DraftKings,h2h,Baltimore Ravens,1.59,
-2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,DraftKings,h2h,Houston Texans,2.42,
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,FanDuel,h2h,Baltimore Ravens,1.49,
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,FanDuel,h2h,Houston Texans,2.72,
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,FanDuel,spreads,Baltimore Ravens,1.83,-3.5
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,FanDuel,spreads,Houston Texans,1.98,3.5
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,FanDuel,totals,Over,1.95,47.5
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,FanDuel,totals,Under,1.87,47.5
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,DraftKings,h2h,Baltimore Ravens,1.54,
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,DraftKings,h2h,Houston Texans,2.54,
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,DraftKings,spreads,Baltimore Ravens,1.98,-3.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,DraftKings,spreads,Houston Texans,1.85,3.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,DraftKings,totals,Over,1.91,47.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,DraftKings,totals,Under,1.91,47.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,MyBookie.ag,h2h,Baltimore Ravens,1.56,
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,MyBookie.ag,h2h,Houston Texans,2.44,
-2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,MyBookie.ag,spreads,Baltimore Ravens,1.91,-3.0
-2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,MyBookie.ag,spreads,Houston Texans,1.91,3.0
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,MyBookie.ag,spreads,Baltimore Ravens,1.91,-3.5
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,MyBookie.ag,spreads,Houston Texans,1.91,3.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,MyBookie.ag,totals,Over,1.91,47.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,MyBookie.ag,totals,Under,1.91,47.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetMGM,h2h,Baltimore Ravens,1.57,
@@ -387,10 +303,10 @@ commence_time,home_team,away_team,bookmaker,market_type,name,price,point
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetMGM,spreads,Houston Texans,1.87,3.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetMGM,totals,Over,1.91,47.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetMGM,totals,Under,1.91,47.5
-2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,Bovada,h2h,Baltimore Ravens,1.54,
-2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,Bovada,h2h,Houston Texans,2.6,
-2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,Bovada,spreads,Baltimore Ravens,1.91,-3.5
-2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,Bovada,spreads,Houston Texans,1.91,3.5
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,Bovada,h2h,Baltimore Ravens,1.51,
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,Bovada,h2h,Houston Texans,2.65,
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,Bovada,spreads,Baltimore Ravens,1.87,-3.5
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,Bovada,spreads,Houston Texans,1.95,3.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,Bovada,totals,Over,1.91,47.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,Bovada,totals,Under,1.91,47.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,LowVig.ag,spreads,Baltimore Ravens,1.98,-3.5
@@ -401,13 +317,163 @@ commence_time,home_team,away_team,bookmaker,market_type,name,price,point
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetOnline.ag,spreads,Houston Texans,1.88,3.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetOnline.ag,totals,Over,1.91,47.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetOnline.ag,totals,Under,1.91,47.5
-2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetRivers,h2h,Baltimore Ravens,1.57,
-2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetRivers,h2h,Houston Texans,2.43,
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetRivers,h2h,Baltimore Ravens,1.55,
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetRivers,h2h,Houston Texans,2.5,
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetRivers,spreads,Baltimore Ravens,1.92,-3.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetRivers,spreads,Houston Texans,1.89,3.5
-2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetRivers,totals,Over,1.92,47.5
-2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetRivers,totals,Under,1.89,47.5
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetRivers,totals,Over,1.91,47.5
+2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetRivers,totals,Under,1.91,47.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetUS,spreads,Baltimore Ravens,1.95,-3.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetUS,spreads,Houston Texans,1.87,3.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetUS,totals,Over,1.91,47.5
 2024-12-25T21:30:00Z,Houston Texans,Baltimore Ravens,BetUS,totals,Under,1.91,47.5
+2024-12-27T01:16:00Z,Chicago Bears,Seattle Seahawks,FanDuel,h2h,Chicago Bears,2.34,
+2024-12-27T01:16:00Z,Chicago Bears,Seattle Seahawks,FanDuel,h2h,Seattle Seahawks,1.63,
+2024-12-27T01:16:00Z,Chicago Bears,Seattle Seahawks,FanDuel,spreads,Chicago Bears,1.95,3.0
+2024-12-27T01:16:00Z,Chicago Bears,Seattle Seahawks,FanDuel,spreads,Seattle Seahawks,1.87,-3.0
+2024-12-27T01:16:00Z,Chicago Bears,Seattle Seahawks,FanDuel,totals,Over,1.87,42.5
+2024-12-27T01:16:00Z,Chicago Bears,Seattle Seahawks,FanDuel,totals,Under,1.95,42.5
+2024-12-28T18:01:00Z,New England Patriots,Los Angeles Chargers,DraftKings,h2h,Los Angeles Chargers,1.43,
+2024-12-28T18:01:00Z,New England Patriots,Los Angeles Chargers,DraftKings,h2h,New England Patriots,2.9,
+2024-12-28T18:01:00Z,New England Patriots,Los Angeles Chargers,DraftKings,spreads,Los Angeles Chargers,1.91,-4.5
+2024-12-28T18:01:00Z,New England Patriots,Los Angeles Chargers,DraftKings,spreads,New England Patriots,1.91,4.5
+2024-12-28T18:01:00Z,New England Patriots,Los Angeles Chargers,DraftKings,totals,Over,1.91,43.0
+2024-12-28T18:01:00Z,New England Patriots,Los Angeles Chargers,DraftKings,totals,Under,1.91,43.0
+2024-12-28T18:01:00Z,New England Patriots,Los Angeles Chargers,FanDuel,h2h,Los Angeles Chargers,1.47,
+2024-12-28T18:01:00Z,New England Patriots,Los Angeles Chargers,FanDuel,h2h,New England Patriots,2.8,
+2024-12-28T18:01:00Z,New England Patriots,Los Angeles Chargers,FanDuel,spreads,Los Angeles Chargers,1.96,-5.5
+2024-12-28T18:01:00Z,New England Patriots,Los Angeles Chargers,FanDuel,spreads,New England Patriots,1.85,5.5
+2024-12-28T18:01:00Z,New England Patriots,Los Angeles Chargers,FanDuel,totals,Over,1.95,43.5
+2024-12-28T18:01:00Z,New England Patriots,Los Angeles Chargers,FanDuel,totals,Under,1.87,43.5
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,DraftKings,h2h,Cincinnati Bengals,1.62,
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,DraftKings,h2h,Denver Broncos,2.36,
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,DraftKings,spreads,Cincinnati Bengals,1.91,-3.0
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,DraftKings,spreads,Denver Broncos,1.91,3.0
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,DraftKings,totals,Over,1.91,47.5
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,DraftKings,totals,Under,1.91,47.5
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,FanDuel,h2h,Cincinnati Bengals,1.6,
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,FanDuel,h2h,Denver Broncos,2.42,
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,FanDuel,spreads,Cincinnati Bengals,1.85,-3.0
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,FanDuel,spreads,Denver Broncos,1.96,3.0
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,FanDuel,totals,Over,1.87,48.5
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,FanDuel,totals,Under,1.95,48.5
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,BetMGM,h2h,Cincinnati Bengals,1.62,
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,BetMGM,h2h,Denver Broncos,2.35,
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,BetMGM,spreads,Cincinnati Bengals,1.87,-3.0
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,BetMGM,spreads,Denver Broncos,1.95,3.0
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,BetMGM,totals,Over,1.91,48.0
+2024-12-28T21:31:00Z,Cincinnati Bengals,Denver Broncos,BetMGM,totals,Under,1.91,48.0
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,DraftKings,h2h,Arizona Cardinals,2.7,
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,DraftKings,h2h,Los Angeles Rams,1.49,
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,DraftKings,spreads,Arizona Cardinals,1.91,4.0
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,DraftKings,spreads,Los Angeles Rams,1.91,-4.0
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,DraftKings,totals,Over,1.91,49.0
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,DraftKings,totals,Under,1.91,49.0
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,FanDuel,h2h,Arizona Cardinals,2.68,
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,FanDuel,h2h,Los Angeles Rams,1.5,
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,FanDuel,spreads,Arizona Cardinals,1.96,3.5
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,FanDuel,spreads,Los Angeles Rams,1.85,-3.5
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,FanDuel,totals,Over,1.87,48.5
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,FanDuel,totals,Under,1.95,48.5
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,BetMGM,h2h,Arizona Cardinals,2.65,
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,BetMGM,h2h,Los Angeles Rams,1.5,
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,BetMGM,spreads,Arizona Cardinals,1.91,4.0
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,BetMGM,spreads,Los Angeles Rams,1.91,-4.0
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,BetMGM,totals,Over,1.91,49.0
+2024-12-29T01:16:00Z,Los Angeles Rams,Arizona Cardinals,BetMGM,totals,Under,1.91,49.0
+2024-12-29T18:01:00Z,Buffalo Bills,New York Jets,FanDuel,h2h,Buffalo Bills,1.21,
+2024-12-29T18:01:00Z,Buffalo Bills,New York Jets,FanDuel,h2h,New York Jets,4.7,
+2024-12-29T18:01:00Z,Buffalo Bills,New York Jets,FanDuel,spreads,Buffalo Bills,1.95,-9.5
+2024-12-29T18:01:00Z,Buffalo Bills,New York Jets,FanDuel,spreads,New York Jets,1.87,9.5
+2024-12-29T18:01:00Z,Buffalo Bills,New York Jets,FanDuel,totals,Over,1.91,47.5
+2024-12-29T18:01:00Z,Buffalo Bills,New York Jets,FanDuel,totals,Under,1.91,47.5
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,DraftKings,h2h,Carolina Panthers,3.95,
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,DraftKings,h2h,Tampa Bay Buccaneers,1.27,
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,DraftKings,spreads,Carolina Panthers,1.91,7.5
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,DraftKings,spreads,Tampa Bay Buccaneers,1.91,-7.5
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,DraftKings,totals,Over,1.91,48.5
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,DraftKings,totals,Under,1.91,48.5
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,FanDuel,h2h,Carolina Panthers,4.15,
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,FanDuel,h2h,Tampa Bay Buccaneers,1.25,
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,FanDuel,spreads,Carolina Panthers,1.87,7.5
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,FanDuel,spreads,Tampa Bay Buccaneers,1.95,-7.5
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,FanDuel,totals,Over,1.87,48.5
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,FanDuel,totals,Under,1.95,48.5
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,BetMGM,h2h,Carolina Panthers,4.1,
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,BetMGM,h2h,Tampa Bay Buccaneers,1.25,
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,BetMGM,spreads,Carolina Panthers,1.91,7.5
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,BetMGM,spreads,Tampa Bay Buccaneers,1.91,-7.5
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,BetMGM,totals,Over,1.91,48.5
+2024-12-29T18:01:00Z,Tampa Bay Buccaneers,Carolina Panthers,BetMGM,totals,Under,1.91,48.5
+2024-12-29T18:01:00Z,Minnesota Vikings,Green Bay Packers,FanDuel,h2h,Green Bay Packers,1.98,
+2024-12-29T18:01:00Z,Minnesota Vikings,Green Bay Packers,FanDuel,h2h,Minnesota Vikings,1.86,
+2024-12-29T18:01:00Z,Minnesota Vikings,Green Bay Packers,FanDuel,spreads,Green Bay Packers,1.87,1.5
+2024-12-29T18:01:00Z,Minnesota Vikings,Green Bay Packers,FanDuel,spreads,Minnesota Vikings,1.95,-1.5
+2024-12-29T18:01:00Z,Minnesota Vikings,Green Bay Packers,FanDuel,totals,Over,1.91,48.5
+2024-12-29T18:01:00Z,Minnesota Vikings,Green Bay Packers,FanDuel,totals,Under,1.91,48.5
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,DraftKings,h2h,Indianapolis Colts,1.21,
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,DraftKings,h2h,New York Giants,4.7,
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,DraftKings,spreads,Indianapolis Colts,1.91,-8.5
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,DraftKings,spreads,New York Giants,1.91,8.5
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,DraftKings,totals,Over,1.91,40.5
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,DraftKings,totals,Under,1.91,40.5
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,FanDuel,h2h,Indianapolis Colts,1.21,
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,FanDuel,h2h,New York Giants,4.6,
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,FanDuel,spreads,Indianapolis Colts,1.91,-8.5
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,FanDuel,spreads,New York Giants,1.91,8.5
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,FanDuel,totals,Over,1.87,39.5
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,FanDuel,totals,Under,1.95,39.5
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,BetMGM,h2h,Indianapolis Colts,1.2,
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,BetMGM,h2h,New York Giants,4.75,
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,BetMGM,spreads,Indianapolis Colts,1.91,-8.5
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,BetMGM,spreads,New York Giants,1.91,8.5
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,BetMGM,totals,Over,1.91,40.0
+2024-12-29T18:01:00Z,New York Giants,Indianapolis Colts,BetMGM,totals,Under,1.91,40.0
+2024-12-29T18:01:00Z,Jacksonville Jaguars,Tennessee Titans,FanDuel,h2h,Jacksonville Jaguars,1.81,
+2024-12-29T18:01:00Z,Jacksonville Jaguars,Tennessee Titans,FanDuel,h2h,Tennessee Titans,2.06,
+2024-12-29T18:01:00Z,Jacksonville Jaguars,Tennessee Titans,FanDuel,spreads,Jacksonville Jaguars,1.91,-1.5
+2024-12-29T18:01:00Z,Jacksonville Jaguars,Tennessee Titans,FanDuel,spreads,Tennessee Titans,1.91,1.5
+2024-12-29T18:01:00Z,Jacksonville Jaguars,Tennessee Titans,FanDuel,totals,Over,1.87,39.5
+2024-12-29T18:01:00Z,Jacksonville Jaguars,Tennessee Titans,FanDuel,totals,Under,1.95,39.5
+2024-12-29T18:01:00Z,New Orleans Saints,Las Vegas Raiders,FanDuel,h2h,Las Vegas Raiders,2.08,
+2024-12-29T18:01:00Z,New Orleans Saints,Las Vegas Raiders,FanDuel,h2h,New Orleans Saints,1.79,
+2024-12-29T18:01:00Z,New Orleans Saints,Las Vegas Raiders,FanDuel,spreads,Las Vegas Raiders,1.87,2.5
+2024-12-29T18:01:00Z,New Orleans Saints,Las Vegas Raiders,FanDuel,spreads,New Orleans Saints,1.95,-2.5
+2024-12-29T18:01:00Z,New Orleans Saints,Las Vegas Raiders,FanDuel,totals,Over,1.87,39.5
+2024-12-29T18:01:00Z,New Orleans Saints,Las Vegas Raiders,FanDuel,totals,Under,1.95,39.5
+2024-12-29T21:06:00Z,Cleveland Browns,Miami Dolphins,FanDuel,h2h,Cleveland Browns,3.1,
+2024-12-29T21:06:00Z,Cleveland Browns,Miami Dolphins,FanDuel,h2h,Miami Dolphins,1.39,
+2024-12-29T21:06:00Z,Cleveland Browns,Miami Dolphins,FanDuel,spreads,Cleveland Browns,1.96,5.5
+2024-12-29T21:06:00Z,Cleveland Browns,Miami Dolphins,FanDuel,spreads,Miami Dolphins,1.85,-5.5
+2024-12-29T21:06:00Z,Cleveland Browns,Miami Dolphins,FanDuel,totals,Over,1.87,41.5
+2024-12-29T21:06:00Z,Cleveland Browns,Miami Dolphins,FanDuel,totals,Under,1.95,41.5
+2024-12-29T21:26:00Z,Philadelphia Eagles,Dallas Cowboys,DraftKings,h2h,Dallas Cowboys,3.75,
+2024-12-29T21:26:00Z,Philadelphia Eagles,Dallas Cowboys,DraftKings,h2h,Philadelphia Eagles,1.29,
+2024-12-29T21:26:00Z,Philadelphia Eagles,Dallas Cowboys,DraftKings,spreads,Dallas Cowboys,1.91,7.5
+2024-12-29T21:26:00Z,Philadelphia Eagles,Dallas Cowboys,DraftKings,spreads,Philadelphia Eagles,1.91,-7.5
+2024-12-29T21:26:00Z,Philadelphia Eagles,Dallas Cowboys,DraftKings,totals,Over,1.91,42.0
+2024-12-29T21:26:00Z,Philadelphia Eagles,Dallas Cowboys,DraftKings,totals,Under,1.91,42.0
+2024-12-29T21:26:00Z,Philadelphia Eagles,Dallas Cowboys,FanDuel,h2h,Dallas Cowboys,4.3,
+2024-12-29T21:26:00Z,Philadelphia Eagles,Dallas Cowboys,FanDuel,h2h,Philadelphia Eagles,1.24,
+2024-12-29T21:26:00Z,Philadelphia Eagles,Dallas Cowboys,FanDuel,spreads,Dallas Cowboys,1.85,8.5
+2024-12-29T21:26:00Z,Philadelphia Eagles,Dallas Cowboys,FanDuel,spreads,Philadelphia Eagles,1.96,-8.5
+2024-12-29T21:26:00Z,Philadelphia Eagles,Dallas Cowboys,FanDuel,totals,Over,1.96,43.5
+2024-12-29T21:26:00Z,Philadelphia Eagles,Dallas Cowboys,FanDuel,totals,Under,1.85,43.5
+2024-12-30T01:21:00Z,Washington Commanders,Atlanta Falcons,DraftKings,h2h,Atlanta Falcons,2.8,
+2024-12-30T01:21:00Z,Washington Commanders,Atlanta Falcons,DraftKings,h2h,Washington Commanders,1.46,
+2024-12-30T01:21:00Z,Washington Commanders,Atlanta Falcons,DraftKings,spreads,Atlanta Falcons,1.91,5.0
+2024-12-30T01:21:00Z,Washington Commanders,Atlanta Falcons,DraftKings,spreads,Washington Commanders,1.91,-5.0
+2024-12-30T01:21:00Z,Washington Commanders,Atlanta Falcons,DraftKings,totals,Over,1.91,48.5
+2024-12-30T01:21:00Z,Washington Commanders,Atlanta Falcons,DraftKings,totals,Under,1.91,48.5
+2024-12-30T01:21:00Z,Washington Commanders,Atlanta Falcons,FanDuel,h2h,Atlanta Falcons,2.94,
+2024-12-30T01:21:00Z,Washington Commanders,Atlanta Falcons,FanDuel,h2h,Washington Commanders,1.43,
+2024-12-30T01:21:00Z,Washington Commanders,Atlanta Falcons,FanDuel,spreads,Atlanta Falcons,1.96,4.5
+2024-12-30T01:21:00Z,Washington Commanders,Atlanta Falcons,FanDuel,spreads,Washington Commanders,1.85,-4.5
+2024-12-30T01:21:00Z,Washington Commanders,Atlanta Falcons,FanDuel,totals,Over,1.95,46.5
+2024-12-30T01:21:00Z,Washington Commanders,Atlanta Falcons,FanDuel,totals,Under,1.87,46.5
+2024-12-31T01:16:00Z,San Francisco 49ers,Detroit Lions,FanDuel,h2h,Detroit Lions,1.56,
+2024-12-31T01:16:00Z,San Francisco 49ers,Detroit Lions,FanDuel,h2h,San Francisco 49ers,2.52,
+2024-12-31T01:16:00Z,San Francisco 49ers,Detroit Lions,FanDuel,spreads,Detroit Lions,1.85,-3.0
+2024-12-31T01:16:00Z,San Francisco 49ers,Detroit Lions,FanDuel,spreads,San Francisco 49ers,1.96,3.0
+2024-12-31T01:16:00Z,San Francisco 49ers,Detroit Lions,FanDuel,totals,Over,1.95,52.5
+2024-12-31T01:16:00Z,San Francisco 49ers,Detroit Lions,FanDuel,totals,Under,1.87,52.5

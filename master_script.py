@@ -78,9 +78,9 @@ if __name__ == "__main__":
     run_script(DATA_COMBINING_SCRIPT, "Data Combining Pipeline")
 
     # Step 6: Feature Engineering
-    # run_script(FEATURE_ENGINEER_SCRIPT, "Feature Engineering Pipeline")
+    run_script(FEATURE_ENGINEER_SCRIPT, "Feature Engineering Pipeline")
 
     # Step 7: Data Splitting
-    # run_script(DATA_SPLITTING_SCRIPT, "Data Splitting Pipeline")
+    run_script(DATA_SPLITTING_SCRIPT, "Data Splitting Pipeline")
 
     print("\n All tasks completed successfully!")
