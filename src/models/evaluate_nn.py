@@ -7,6 +7,8 @@ import matplotlib.pyplot as plt
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 SPLITS_DIR = os.path.join(PROJECT_ROOT, "data", "splits")
 MODEL_DIR = os.path.join(PROJECT_ROOT, "models")
+PLOTS_DIR = os.path.join(PROJECT_ROOT, "plots")
+os.makedirs(PLOTS_DIR, exist_ok=True)  # Create plots directory if it doesn't exist
 
 # Activation function
 def sigmoid(x):
@@ -19,36 +21,25 @@ def sigmoid(x):
 
 # Forward pass
 def forward_propagation(X, weights):
-    # Debugging statements
     print("Debug: Forward propagation started")
     print(f"Input X type: {type(X)}, dtype: {getattr(X, 'dtype', 'N/A')}, shape: {getattr(X, 'shape', 'N/A')}")
     print(f"Weights w1 shape: {weights['w1'].shape}, dtype: {weights['w1'].dtype}")
     
-    # Ensure X is a NumPy array of floats
     X = np.array(X, dtype=np.float64)
 
-    # Layer 1
     z1 = np.dot(X, weights["w1"]) + weights["b1"]
-    z1 = np.array(z1, dtype=np.float64)  # Ensure proper dtype
+    z1 = np.array(z1, dtype=np.float64)
     a1 = sigmoid(z1)
-
-    # Debugging
     print(f"Layer 1: z1 shape: {z1.shape}, a1 shape: {a1.shape}")
 
-    # Layer 2
     z2 = np.dot(a1, weights["w2"]) + weights["b2"]
     z2 = np.array(z2, dtype=np.float64)
     a2 = sigmoid(z2)
-
-    # Debugging
     print(f"Layer 2: z2 shape: {z2.shape}, a2 shape: {a2.shape}")
 
-    # Output Layer
     z3 = np.dot(a2, weights["w3"]) + weights["b3"]
     z3 = np.array(z3, dtype=np.float64)
-    a3 = z3  # Output layer (no activation for regression)
-
-    # Debugging
+    a3 = z3
     print(f"Output layer: z3 shape: {z3.shape}, a3 shape: {a3.shape}")
 
     return a3
@@ -58,27 +49,21 @@ def load_data(file_name):
     file_path = os.path.join(SPLITS_DIR, file_name)
     data = pd.read_csv(file_path)
     
-    # Debugging statements
     print(f"Loading data from {file_name}...")
     print("Dataset sample:")
     print(data.head())
     print("Dataset column types:")
     print(data.dtypes)
     
-    # Drop irrelevant columns
     drop_cols = ["date", "score_diff_bin", "away", "home", "whos_favored", 
                  "home_team_combined", "away_team_combined", "home_team", 
                  "away_team", "bookmaker", "market_type", "name"]
     data = data.drop(columns=drop_cols)
-    
-    # One-hot encode categorical columns if needed
     data = pd.get_dummies(data, drop_first=True)
     
-    # Separate features and target
-    X = data.drop(columns=["score_diff"]).values  # Features
-    y = data["score_diff"].values.reshape(-1, 1)  # Target
+    X = data.drop(columns=["score_diff"]).values
+    y = data["score_diff"].values.reshape(-1, 1)
     
-    # Debugging statements
     print("Transformed Dataset sample (after encoding and dropping):")
     print(data.head())
     print("Transformed Dataset column types:")
@@ -98,7 +83,7 @@ def load_model():
 # Evaluate the model
 def evaluate_model():
     print("Loading test data...")
-    X_test, y_test = load_data("nba_test.csv")  # Change to NFL for NFL model
+    X_test, y_test = load_data("nba_test.csv")
 
     print("Loading saved model weights...")
     weights = load_model()
@@ -120,7 +105,23 @@ def evaluate_model():
     plt.xlabel("Actual Values (y_test)")
     plt.ylabel("Residuals (y_test - y_pred)")
     plt.grid(True)
-    plt.show()
+    
+    residual_plot_path = os.path.join(PLOTS_DIR, "residual_plot.png")
+    plt.savefig(residual_plot_path, dpi=300)
+    print(f"Residual plot saved at {residual_plot_path}")
+
+    # Histogram of Residuals
+    print("Plotting histogram of residuals...")
+    plt.figure(figsize=(10, 6))
+    plt.hist(residuals, bins=30, edgecolor="k", alpha=0.7)
+    plt.title("Histogram of Residuals")
+    plt.xlabel("Residuals (y_test - y_pred)")
+    plt.ylabel("Frequency")
+    plt.grid(True)
+    
+    histogram_path = os.path.join(PLOTS_DIR, "residual_histogram.png")
+    plt.savefig(histogram_path, dpi=300)
+    print(f"Histogram of residuals saved at {histogram_path}")
 
 if __name__ == "__main__":
     evaluate_model()
