@@ -31,24 +31,28 @@ def initialize_weights(input_size, hidden_size_1, hidden_size_2, output_size):
 
 # Activation function
 def sigmoid(x):
-    return 1 / (1 + np.exp(-x))
+    x = np.array(x, dtype=np.float64)  # Ensure x is a NumPy array with float64 dtype
+    x_clipped = np.clip(x, -500, 500)  # Clip values to prevent overflow in np.exp
+    return 1 / (1 + np.exp(-x_clipped))
 
 def sigmoid_derivative(x):
     return x * (1 - x)
 
 # Forward pass
 def forward_propagation(X, weights):
-    X = np.array(X, dtype=float)
+    X = np.array(X, dtype=np.float64)  # Ensure X is a NumPy array of floats
     z1 = np.dot(X, weights["w1"]) + weights["b1"]
+    print(f"Debug: z1 type={type(z1)}, dtype={z1.dtype}, shape={z1.shape}")
     a1 = sigmoid(z1)
     z2 = np.dot(a1, weights["w2"]) + weights["b2"]
+    print(f"Debug: z2 type={type(z2)}, dtype={z2.dtype}, shape={z2.shape}")
     a2 = sigmoid(z2)
     z3 = np.dot(a2, weights["w3"]) + weights["b3"]
+    print(f"Debug: z3 type={type(z3)}, dtype={z3.dtype}, shape={z3.shape}")
     a3 = z3  # Output layer (no activation for regression)
     cache = {"z1": z1, "a1": a1, "z2": z2, "a2": a2, "z3": z3, "a3": a3}
     return a3, cache
 
-# Backward pass
 # Backward pass
 def backward_propagation(X, y, weights, cache):
     X = np.array(X, dtype=np.float64)  # Ensure X is float64
@@ -67,7 +71,6 @@ def backward_propagation(X, y, weights, cache):
     dw1 = np.dot(X.T, dz1) / m
     db1 = np.sum(dz1, axis=0, keepdims=True) / m
 
-    # Ensure all gradients are float64
     gradients = {
         "dw1": np.array(dw1, dtype=np.float64),
         "db1": np.array(db1, dtype=np.float64),
@@ -77,26 +80,11 @@ def backward_propagation(X, y, weights, cache):
         "db3": np.array(db3, dtype=np.float64),
     }
 
-    # Debugging: Print gradient types
-    for key, value in gradients.items():
-        print(f"Gradient {key}: dtype={value.dtype}, shape={value.shape}")
-
     return gradients
 
 # Update weights
 def update_weights(weights, gradients, learning_rate):
     for key in weights.keys():
-        # Debugging: Print data types before update
-        print(f"Updating {key}: weights dtype={weights[key].dtype}, gradients dtype={gradients['d' + key].dtype}")
-        weights[key] -= learning_rate * gradients["d" + key]
-    return weights
-
-
-# Update weights
-def update_weights(weights, gradients, learning_rate):
-    for key in weights.keys():
-        # Debugging: Print data types before update
-        print(f"Updating {key}: weights dtype={weights[key].dtype}, gradients dtype={gradients['d' + key].dtype}")
         weights[key] -= learning_rate * gradients["d" + key]
     return weights
 
@@ -109,10 +97,6 @@ def load_data(file_name):
     file_path = os.path.join(SPLITS_DIR, file_name)
     data = pd.read_csv(file_path)
     print(f"Loading data from {file_name}...")
-    print("Dataset sample:")
-    print(data.head())
-    print("Dataset column types:")
-    print(data.dtypes)
     drop_cols = ["date", "score_diff_bin", "away", "home", "whos_favored", 
                  "home_team_combined", "away_team_combined", "home_team", 
                  "away_team", "bookmaker", "market_type", "name"]
@@ -120,8 +104,6 @@ def load_data(file_name):
     data = pd.get_dummies(data, drop_first=True)
     X = data.drop(columns=["score_diff"]).values
     y = data["score_diff"].values.reshape(-1, 1)
-    print("Transformed Dataset sample (after encoding and dropping):")
-    print(data.head())
     return X, y
 
 # Training the model

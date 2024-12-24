@@ -1,979 +1,253 @@
 commence_time,home_team,away_team,bookmaker,market_type,name,price,point
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,FanDuel,h2h,Boston Celtics,1.2,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,FanDuel,h2h,Orlando Magic,4.9,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,FanDuel,spreads,Boston Celtics,1.91,-10.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,FanDuel,spreads,Orlando Magic,1.91,10.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,FanDuel,totals,Over,1.91,215.0
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,FanDuel,totals,Under,1.91,215.0
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,DraftKings,h2h,Boston Celtics,1.19,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,DraftKings,h2h,Orlando Magic,4.9,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,DraftKings,spreads,Boston Celtics,1.93,-10.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,DraftKings,spreads,Orlando Magic,1.89,10.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,DraftKings,totals,Over,1.89,214.0
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,DraftKings,totals,Under,1.93,214.0
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,LowVig.ag,h2h,Boston Celtics,1.19,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,LowVig.ag,h2h,Orlando Magic,5.2,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,LowVig.ag,spreads,Boston Celtics,1.96,-10.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,LowVig.ag,spreads,Orlando Magic,1.93,10.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,LowVig.ag,totals,Over,1.93,214.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,LowVig.ag,totals,Under,1.93,214.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetOnline.ag,h2h,Boston Celtics,1.19,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetOnline.ag,h2h,Orlando Magic,5.2,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetOnline.ag,spreads,Boston Celtics,1.93,-10.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetOnline.ag,spreads,Orlando Magic,1.89,10.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetOnline.ag,totals,Over,1.91,214.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetOnline.ag,totals,Under,1.91,214.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetMGM,h2h,Boston Celtics,1.18,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetMGM,h2h,Orlando Magic,5.0,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetMGM,spreads,Boston Celtics,1.87,-9.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetMGM,spreads,Orlando Magic,1.95,9.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetMGM,totals,Over,1.91,214.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetMGM,totals,Under,1.91,214.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,MyBookie.ag,h2h,Boston Celtics,1.19,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,MyBookie.ag,h2h,Orlando Magic,4.73,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,MyBookie.ag,spreads,Boston Celtics,1.91,-10.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,MyBookie.ag,spreads,Orlando Magic,1.91,10.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,MyBookie.ag,totals,Over,1.91,214.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,MyBookie.ag,totals,Under,1.91,214.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetUS,h2h,Boston Celtics,1.2,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetUS,h2h,Orlando Magic,4.9,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetUS,spreads,Boston Celtics,1.91,-10.0
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetUS,spreads,Orlando Magic,1.91,10.0
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetUS,totals,Over,1.91,214.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetUS,totals,Under,1.91,214.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetRivers,h2h,Boston Celtics,1.21,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetRivers,h2h,Orlando Magic,4.7,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetRivers,spreads,Boston Celtics,1.93,-10.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetRivers,spreads,Orlando Magic,1.88,10.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetRivers,totals,Over,1.93,214.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,BetRivers,totals,Under,1.88,214.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,Bovada,h2h,Boston Celtics,1.2,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,Bovada,h2h,Orlando Magic,4.7,
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,Bovada,spreads,Boston Celtics,1.87,-10.0
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,Bovada,spreads,Orlando Magic,1.95,10.0
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,Bovada,totals,Over,1.87,214.5
-2024-12-24T00:10:00Z,Orlando Magic,Boston Celtics,Bovada,totals,Under,1.95,214.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,FanDuel,h2h,Charlotte Hornets,3.05,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,FanDuel,h2h,Houston Rockets,1.4,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,FanDuel,spreads,Charlotte Hornets,1.91,6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,FanDuel,spreads,Houston Rockets,1.91,-6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,FanDuel,totals,Over,1.91,220.0
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,FanDuel,totals,Under,1.91,220.0
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,DraftKings,h2h,Charlotte Hornets,3.0,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,DraftKings,h2h,Houston Rockets,1.41,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,DraftKings,spreads,Charlotte Hornets,1.93,6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,DraftKings,spreads,Houston Rockets,1.89,-6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,DraftKings,totals,Over,1.91,219.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,DraftKings,totals,Under,1.91,219.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,MyBookie.ag,h2h,Charlotte Hornets,2.95,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,MyBookie.ag,h2h,Houston Rockets,1.41,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,MyBookie.ag,spreads,Charlotte Hornets,1.91,6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,MyBookie.ag,spreads,Houston Rockets,1.91,-6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,MyBookie.ag,totals,Over,1.91,219.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,MyBookie.ag,totals,Under,1.91,219.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetRivers,h2h,Charlotte Hornets,3.05,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetRivers,h2h,Houston Rockets,1.4,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetRivers,spreads,Charlotte Hornets,1.92,6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetRivers,spreads,Houston Rockets,1.89,-6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetRivers,totals,Over,1.88,219.0
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetRivers,totals,Under,1.93,219.0
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetOnline.ag,h2h,Charlotte Hornets,3.05,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetOnline.ag,h2h,Houston Rockets,1.41,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetOnline.ag,spreads,Charlotte Hornets,1.89,6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetOnline.ag,spreads,Houston Rockets,1.93,-6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetOnline.ag,totals,Over,1.95,220.0
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetOnline.ag,totals,Under,1.87,220.0
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,LowVig.ag,h2h,Charlotte Hornets,3.05,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,LowVig.ag,h2h,Houston Rockets,1.41,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,LowVig.ag,spreads,Charlotte Hornets,1.93,6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,LowVig.ag,spreads,Houston Rockets,1.96,-6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,LowVig.ag,totals,Over,1.98,220.0
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,LowVig.ag,totals,Under,1.88,220.0
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetMGM,h2h,Charlotte Hornets,3.0,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetMGM,h2h,Houston Rockets,1.4,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetMGM,spreads,Charlotte Hornets,1.91,6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetMGM,spreads,Houston Rockets,1.91,-6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetMGM,totals,Over,1.95,220.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetMGM,totals,Under,1.87,220.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,Bovada,h2h,Charlotte Hornets,3.05,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,Bovada,h2h,Houston Rockets,1.41,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,Bovada,spreads,Charlotte Hornets,1.91,6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,Bovada,spreads,Houston Rockets,1.91,-6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,Bovada,totals,Over,1.91,219.0
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,Bovada,totals,Under,1.91,219.0
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetUS,h2h,Charlotte Hornets,3.05,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetUS,h2h,Houston Rockets,1.41,
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetUS,spreads,Charlotte Hornets,1.91,6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetUS,spreads,Houston Rockets,1.91,-6.5
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetUS,totals,Over,1.91,220.0
-2024-12-24T00:10:00Z,Charlotte Hornets,Houston Rockets,BetUS,totals,Under,1.91,220.0
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,FanDuel,h2h,Cleveland Cavaliers,1.09,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,FanDuel,h2h,Utah Jazz,8.0,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,FanDuel,spreads,Cleveland Cavaliers,1.88,-14.0
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,FanDuel,spreads,Utah Jazz,1.94,14.0
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,FanDuel,totals,Over,1.89,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,FanDuel,totals,Under,1.93,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,DraftKings,h2h,Cleveland Cavaliers,1.09,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,DraftKings,h2h,Utah Jazz,8.0,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,DraftKings,spreads,Cleveland Cavaliers,1.93,-14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,DraftKings,spreads,Utah Jazz,1.89,14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,DraftKings,totals,Over,1.93,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,DraftKings,totals,Under,1.89,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,LowVig.ag,h2h,Cleveland Cavaliers,1.09,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,LowVig.ag,h2h,Utah Jazz,8.25,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,LowVig.ag,spreads,Cleveland Cavaliers,1.9,-14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,LowVig.ag,spreads,Utah Jazz,1.99,14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,LowVig.ag,totals,Over,1.93,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,LowVig.ag,totals,Under,1.93,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetOnline.ag,h2h,Cleveland Cavaliers,1.09,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetOnline.ag,h2h,Utah Jazz,8.25,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetOnline.ag,spreads,Cleveland Cavaliers,1.87,-14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetOnline.ag,spreads,Utah Jazz,1.95,14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetOnline.ag,totals,Over,1.91,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetOnline.ag,totals,Under,1.91,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetMGM,h2h,Cleveland Cavaliers,1.09,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetMGM,h2h,Utah Jazz,8.0,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetMGM,spreads,Cleveland Cavaliers,1.91,-14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetMGM,spreads,Utah Jazz,1.91,14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetMGM,totals,Over,1.91,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetMGM,totals,Under,1.91,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,MyBookie.ag,h2h,Cleveland Cavaliers,1.09,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,MyBookie.ag,h2h,Utah Jazz,7.43,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,MyBookie.ag,spreads,Cleveland Cavaliers,1.91,-14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,MyBookie.ag,spreads,Utah Jazz,1.91,14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,MyBookie.ag,totals,Over,1.91,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,MyBookie.ag,totals,Under,1.91,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetUS,h2h,Cleveland Cavaliers,1.08,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetUS,h2h,Utah Jazz,8.5,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetUS,spreads,Cleveland Cavaliers,1.87,-14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetUS,spreads,Utah Jazz,1.95,14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetUS,totals,Over,1.91,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetUS,totals,Under,1.91,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetRivers,h2h,Cleveland Cavaliers,1.1,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetRivers,h2h,Utah Jazz,7.5,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetRivers,spreads,Cleveland Cavaliers,1.89,-14.0
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetRivers,spreads,Utah Jazz,1.92,14.0
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetRivers,totals,Over,1.89,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,BetRivers,totals,Under,1.92,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,Bovada,h2h,Cleveland Cavaliers,1.08,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,Bovada,h2h,Utah Jazz,8.0,
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,Bovada,spreads,Cleveland Cavaliers,1.95,-14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,Bovada,spreads,Utah Jazz,1.87,14.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,Bovada,totals,Over,1.91,232.5
-2024-12-24T00:10:00Z,Cleveland Cavaliers,Utah Jazz,Bovada,totals,Under,1.91,232.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,DraftKings,h2h,Philadelphia 76ers,1.43,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,DraftKings,h2h,San Antonio Spurs,2.9,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,DraftKings,spreads,Philadelphia 76ers,1.87,-5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,DraftKings,spreads,San Antonio Spurs,1.95,5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,DraftKings,totals,Over,1.89,217.0
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,DraftKings,totals,Under,1.93,217.0
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,FanDuel,h2h,Philadelphia 76ers,1.44,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,FanDuel,h2h,San Antonio Spurs,2.88,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,FanDuel,spreads,Philadelphia 76ers,1.89,-5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,FanDuel,spreads,San Antonio Spurs,1.93,5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,FanDuel,totals,Over,1.91,217.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,FanDuel,totals,Under,1.91,217.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,MyBookie.ag,h2h,Philadelphia 76ers,1.45,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,MyBookie.ag,h2h,San Antonio Spurs,2.76,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,MyBookie.ag,spreads,Philadelphia 76ers,1.91,-5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,MyBookie.ag,spreads,San Antonio Spurs,1.91,5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,MyBookie.ag,totals,Over,1.91,217.0
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,MyBookie.ag,totals,Under,1.91,217.0
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,LowVig.ag,h2h,Philadelphia 76ers,1.47,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,LowVig.ag,h2h,San Antonio Spurs,2.85,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,LowVig.ag,spreads,Philadelphia 76ers,1.89,-5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,LowVig.ag,spreads,San Antonio Spurs,2.0,5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,LowVig.ag,totals,Over,1.93,217.0
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,LowVig.ag,totals,Under,1.93,217.0
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetOnline.ag,h2h,Philadelphia 76ers,1.47,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetOnline.ag,h2h,San Antonio Spurs,2.85,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetOnline.ag,spreads,Philadelphia 76ers,1.86,-5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetOnline.ag,spreads,San Antonio Spurs,1.96,5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetOnline.ag,totals,Over,1.91,217.0
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetOnline.ag,totals,Under,1.91,217.0
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetMGM,h2h,Philadelphia 76ers,1.44,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetMGM,h2h,San Antonio Spurs,2.85,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetMGM,spreads,Philadelphia 76ers,1.87,-5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetMGM,spreads,San Antonio Spurs,1.95,5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetMGM,totals,Over,1.87,216.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetMGM,totals,Under,1.95,216.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetUS,h2h,Philadelphia 76ers,1.43,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetUS,h2h,San Antonio Spurs,2.95,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetUS,spreads,Philadelphia 76ers,1.91,-5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetUS,spreads,San Antonio Spurs,1.91,5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetUS,totals,Over,1.91,217.0
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetUS,totals,Under,1.91,217.0
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetRivers,h2h,Philadelphia 76ers,1.48,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetRivers,h2h,San Antonio Spurs,2.75,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetRivers,spreads,Philadelphia 76ers,1.89,-5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetRivers,spreads,San Antonio Spurs,1.92,5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetRivers,totals,Over,1.92,217.0
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,BetRivers,totals,Under,1.89,217.0
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,Bovada,h2h,Philadelphia 76ers,1.45,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,Bovada,h2h,San Antonio Spurs,2.8,
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,Bovada,spreads,Philadelphia 76ers,1.91,-5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,Bovada,spreads,San Antonio Spurs,1.91,5.5
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,Bovada,totals,Over,1.91,217.0
-2024-12-24T00:10:00Z,Philadelphia 76ers,San Antonio Spurs,Bovada,totals,Under,1.91,217.0
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,FanDuel,h2h,Atlanta Hawks,2.44,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,FanDuel,h2h,Minnesota Timberwolves,1.58,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,FanDuel,spreads,Atlanta Hawks,1.89,3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,FanDuel,spreads,Minnesota Timberwolves,1.93,-3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,FanDuel,totals,Over,1.91,225.0
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,FanDuel,totals,Under,1.91,225.0
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,DraftKings,h2h,Atlanta Hawks,2.42,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,DraftKings,h2h,Minnesota Timberwolves,1.59,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,DraftKings,spreads,Atlanta Hawks,1.93,3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,DraftKings,spreads,Minnesota Timberwolves,1.89,-3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,DraftKings,totals,Over,1.89,225.0
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,DraftKings,totals,Under,1.93,225.0
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,MyBookie.ag,h2h,Atlanta Hawks,2.32,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,MyBookie.ag,h2h,Minnesota Timberwolves,1.61,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,MyBookie.ag,spreads,Atlanta Hawks,1.91,3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,MyBookie.ag,spreads,Minnesota Timberwolves,1.91,-3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,MyBookie.ag,totals,Over,1.91,225.0
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,MyBookie.ag,totals,Under,1.91,225.0
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetMGM,h2h,Atlanta Hawks,2.35,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetMGM,h2h,Minnesota Timberwolves,1.61,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetMGM,spreads,Atlanta Hawks,1.91,3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetMGM,spreads,Minnesota Timberwolves,1.91,-3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetMGM,totals,Over,1.95,225.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetMGM,totals,Under,1.87,225.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetRivers,h2h,Atlanta Hawks,2.33,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetRivers,h2h,Minnesota Timberwolves,1.64,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetRivers,spreads,Atlanta Hawks,1.88,3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetRivers,spreads,Minnesota Timberwolves,1.93,-3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetRivers,totals,Over,1.93,225.0
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetRivers,totals,Under,1.88,225.0
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetOnline.ag,h2h,Atlanta Hawks,2.4,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetOnline.ag,h2h,Minnesota Timberwolves,1.62,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetOnline.ag,spreads,Atlanta Hawks,1.91,3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetOnline.ag,spreads,Minnesota Timberwolves,1.91,-3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetOnline.ag,totals,Over,1.91,224.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetOnline.ag,totals,Under,1.91,224.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,LowVig.ag,h2h,Atlanta Hawks,2.4,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,LowVig.ag,h2h,Minnesota Timberwolves,1.62,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,LowVig.ag,spreads,Atlanta Hawks,1.94,3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,LowVig.ag,spreads,Minnesota Timberwolves,1.94,-3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,LowVig.ag,totals,Over,1.93,224.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,LowVig.ag,totals,Under,1.93,224.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,Bovada,h2h,Atlanta Hawks,2.4,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,Bovada,h2h,Minnesota Timberwolves,1.61,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,Bovada,spreads,Atlanta Hawks,1.91,3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,Bovada,spreads,Minnesota Timberwolves,1.91,-3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,Bovada,totals,Over,1.87,224.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,Bovada,totals,Under,1.95,224.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetUS,h2h,Atlanta Hawks,2.38,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetUS,h2h,Minnesota Timberwolves,1.62,
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetUS,spreads,Atlanta Hawks,1.91,3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetUS,spreads,Minnesota Timberwolves,1.91,-3.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetUS,totals,Over,1.91,224.5
-2024-12-24T00:40:00Z,Atlanta Hawks,Minnesota Timberwolves,BetUS,totals,Under,1.91,224.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,DraftKings,h2h,Brooklyn Nets,4.9,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,DraftKings,h2h,Miami Heat,1.19,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,DraftKings,spreads,Brooklyn Nets,1.93,10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,DraftKings,spreads,Miami Heat,1.89,-10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,DraftKings,totals,Over,1.89,212.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,DraftKings,totals,Under,1.93,212.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,MyBookie.ag,h2h,Brooklyn Nets,4.66,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,MyBookie.ag,h2h,Miami Heat,1.2,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,MyBookie.ag,spreads,Brooklyn Nets,1.91,10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,MyBookie.ag,spreads,Miami Heat,1.91,-10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,MyBookie.ag,totals,Over,1.91,213.0
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,MyBookie.ag,totals,Under,1.91,213.0
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,FanDuel,h2h,Brooklyn Nets,4.85,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,FanDuel,h2h,Miami Heat,1.2,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,FanDuel,spreads,Brooklyn Nets,1.91,10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,FanDuel,spreads,Miami Heat,1.91,-10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,FanDuel,totals,Over,1.91,213.0
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,FanDuel,totals,Under,1.91,213.0
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetMGM,h2h,Brooklyn Nets,4.75,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetMGM,h2h,Miami Heat,1.2,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetMGM,spreads,Brooklyn Nets,1.91,10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetMGM,spreads,Miami Heat,1.91,-10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetMGM,totals,Over,1.87,212.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetMGM,totals,Under,1.95,212.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetRivers,h2h,Brooklyn Nets,4.8,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetRivers,h2h,Miami Heat,1.2,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetRivers,spreads,Brooklyn Nets,1.88,10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetRivers,spreads,Miami Heat,1.93,-10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetRivers,totals,Over,1.89,212.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetRivers,totals,Under,1.92,212.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetOnline.ag,h2h,Brooklyn Nets,5.0,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetOnline.ag,h2h,Miami Heat,1.2,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetOnline.ag,spreads,Brooklyn Nets,1.91,10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetOnline.ag,spreads,Miami Heat,1.91,-10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetOnline.ag,totals,Over,1.91,213.0
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetOnline.ag,totals,Under,1.91,213.0
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,LowVig.ag,h2h,Brooklyn Nets,5.0,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,LowVig.ag,h2h,Miami Heat,1.2,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,LowVig.ag,spreads,Brooklyn Nets,1.94,10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,LowVig.ag,spreads,Miami Heat,1.94,-10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,LowVig.ag,totals,Over,1.93,213.0
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,LowVig.ag,totals,Under,1.93,213.0
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,Bovada,h2h,Brooklyn Nets,4.9,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,Bovada,h2h,Miami Heat,1.18,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,Bovada,spreads,Brooklyn Nets,1.95,10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,Bovada,spreads,Miami Heat,1.87,-10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,Bovada,totals,Over,1.91,213.0
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,Bovada,totals,Under,1.91,213.0
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetUS,h2h,Brooklyn Nets,4.95,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetUS,h2h,Miami Heat,1.2,
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetUS,spreads,Brooklyn Nets,1.91,10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetUS,spreads,Miami Heat,1.91,-10.5
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetUS,totals,Over,1.91,213.0
-2024-12-24T00:40:00Z,Miami Heat,Brooklyn Nets,BetUS,totals,Under,1.91,213.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,FanDuel,h2h,New York Knicks,1.11,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,FanDuel,h2h,Toronto Raptors,7.4,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,FanDuel,spreads,New York Knicks,1.93,-14.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,FanDuel,spreads,Toronto Raptors,1.89,14.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,FanDuel,totals,Over,1.91,226.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,FanDuel,totals,Under,1.91,226.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,MyBookie.ag,h2h,New York Knicks,1.1,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,MyBookie.ag,h2h,Toronto Raptors,7.17,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,MyBookie.ag,spreads,New York Knicks,1.91,-14.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,MyBookie.ag,spreads,Toronto Raptors,1.91,14.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,MyBookie.ag,totals,Over,1.91,226.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,MyBookie.ag,totals,Under,1.91,226.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,DraftKings,h2h,New York Knicks,1.1,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,DraftKings,h2h,Toronto Raptors,7.5,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,DraftKings,spreads,New York Knicks,1.93,-14.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,DraftKings,spreads,Toronto Raptors,1.89,14.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,DraftKings,totals,Over,1.93,226.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,DraftKings,totals,Under,1.89,226.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetRivers,h2h,New York Knicks,1.09,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetRivers,h2h,Toronto Raptors,8.0,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetRivers,spreads,New York Knicks,1.92,-13.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetRivers,spreads,Toronto Raptors,1.89,13.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetRivers,totals,Over,1.92,227.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetRivers,totals,Under,1.89,227.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetOnline.ag,h2h,New York Knicks,1.12,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetOnline.ag,h2h,Toronto Raptors,6.95,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetOnline.ag,spreads,New York Knicks,1.93,-14.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetOnline.ag,spreads,Toronto Raptors,1.88,14.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetOnline.ag,totals,Over,1.91,226.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetOnline.ag,totals,Under,1.91,226.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,LowVig.ag,h2h,New York Knicks,1.12,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,LowVig.ag,h2h,Toronto Raptors,6.95,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,LowVig.ag,spreads,New York Knicks,1.97,-14.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,LowVig.ag,spreads,Toronto Raptors,1.92,14.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,LowVig.ag,totals,Over,1.93,226.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,LowVig.ag,totals,Under,1.93,226.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetMGM,h2h,New York Knicks,1.1,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetMGM,h2h,Toronto Raptors,7.25,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetMGM,spreads,New York Knicks,1.95,-14.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetMGM,spreads,Toronto Raptors,1.87,14.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetMGM,totals,Over,1.91,226.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetMGM,totals,Under,1.91,226.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,Bovada,h2h,New York Knicks,1.12,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,Bovada,h2h,Toronto Raptors,6.5,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,Bovada,spreads,New York Knicks,1.87,-13.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,Bovada,spreads,Toronto Raptors,1.95,13.5
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,Bovada,totals,Over,1.91,226.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,Bovada,totals,Under,1.91,226.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetUS,h2h,New York Knicks,1.12,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetUS,h2h,Toronto Raptors,6.65,
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetUS,spreads,New York Knicks,1.91,-14.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetUS,spreads,Toronto Raptors,1.91,14.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetUS,totals,Over,1.91,226.0
-2024-12-24T00:40:00Z,New York Knicks,Toronto Raptors,BetUS,totals,Under,1.91,226.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,DraftKings,h2h,Chicago Bulls,2.02,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,DraftKings,h2h,Milwaukee Bucks,1.82,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,DraftKings,spreads,Chicago Bulls,1.91,1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,DraftKings,spreads,Milwaukee Bucks,1.91,-1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,DraftKings,totals,Over,1.89,230.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,DraftKings,totals,Under,1.93,230.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,MyBookie.ag,h2h,Chicago Bulls,2.0,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,MyBookie.ag,h2h,Milwaukee Bucks,1.82,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,MyBookie.ag,spreads,Chicago Bulls,1.91,1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,MyBookie.ag,spreads,Milwaukee Bucks,1.91,-1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,MyBookie.ag,totals,Over,1.91,230.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,MyBookie.ag,totals,Under,1.91,230.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,FanDuel,h2h,Chicago Bulls,2.02,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,FanDuel,h2h,Milwaukee Bucks,1.83,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,FanDuel,spreads,Chicago Bulls,1.91,1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,FanDuel,spreads,Milwaukee Bucks,1.91,-1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,FanDuel,totals,Over,1.93,230.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,FanDuel,totals,Under,1.89,230.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetMGM,h2h,Chicago Bulls,2.0,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetMGM,h2h,Milwaukee Bucks,1.83,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetMGM,spreads,Chicago Bulls,1.91,1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetMGM,spreads,Milwaukee Bucks,1.91,-1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetMGM,totals,Over,1.91,230.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetMGM,totals,Under,1.91,230.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetRivers,h2h,Chicago Bulls,2.0,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetRivers,h2h,Milwaukee Bucks,1.85,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetRivers,spreads,Chicago Bulls,1.88,1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetRivers,spreads,Milwaukee Bucks,1.93,-1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetRivers,totals,Over,1.91,231.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetRivers,totals,Under,1.91,231.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,LowVig.ag,h2h,Chicago Bulls,1.98,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,LowVig.ag,h2h,Milwaukee Bucks,1.85,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,LowVig.ag,spreads,Chicago Bulls,1.94,1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,LowVig.ag,spreads,Milwaukee Bucks,1.94,-1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,LowVig.ag,totals,Over,1.93,230.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,LowVig.ag,totals,Under,1.93,230.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetOnline.ag,h2h,Chicago Bulls,1.98,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetOnline.ag,h2h,Milwaukee Bucks,1.85,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetOnline.ag,spreads,Chicago Bulls,1.91,1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetOnline.ag,spreads,Milwaukee Bucks,1.91,-1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetOnline.ag,totals,Over,1.91,230.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetOnline.ag,totals,Under,1.91,230.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,Bovada,h2h,Chicago Bulls,2.05,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,Bovada,h2h,Milwaukee Bucks,1.8,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,Bovada,spreads,Chicago Bulls,1.87,2.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,Bovada,spreads,Milwaukee Bucks,1.95,-2.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,Bovada,totals,Over,1.91,231.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,Bovada,totals,Under,1.91,231.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetUS,h2h,Chicago Bulls,2.0,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetUS,h2h,Milwaukee Bucks,1.83,
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetUS,spreads,Chicago Bulls,1.91,1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetUS,spreads,Milwaukee Bucks,1.91,-1.5
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetUS,totals,Over,1.91,230.0
-2024-12-24T01:10:00Z,Chicago Bulls,Milwaukee Bucks,BetUS,totals,Under,1.91,230.0
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,DraftKings,h2h,Los Angeles Clippers,2.85,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,DraftKings,h2h,Memphis Grizzlies,1.44,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,DraftKings,spreads,Los Angeles Clippers,1.93,5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,DraftKings,spreads,Memphis Grizzlies,1.89,-5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,DraftKings,totals,Over,1.89,229.0
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,DraftKings,totals,Under,1.93,229.0
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,MyBookie.ag,h2h,Los Angeles Clippers,2.81,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,MyBookie.ag,h2h,Memphis Grizzlies,1.44,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,MyBookie.ag,spreads,Los Angeles Clippers,1.91,5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,MyBookie.ag,spreads,Memphis Grizzlies,1.91,-5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,MyBookie.ag,totals,Over,1.91,229.0
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,MyBookie.ag,totals,Under,1.91,229.0
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetMGM,h2h,Los Angeles Clippers,2.8,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetMGM,h2h,Memphis Grizzlies,1.44,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetMGM,spreads,Los Angeles Clippers,1.91,5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetMGM,spreads,Memphis Grizzlies,1.91,-5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetMGM,totals,Over,1.91,229.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetMGM,totals,Under,1.91,229.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,FanDuel,h2h,Los Angeles Clippers,2.9,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,FanDuel,h2h,Memphis Grizzlies,1.43,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,FanDuel,spreads,Los Angeles Clippers,1.94,5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,FanDuel,spreads,Memphis Grizzlies,1.88,-5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,FanDuel,totals,Over,1.91,229.0
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,FanDuel,totals,Under,1.91,229.0
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetRivers,h2h,Los Angeles Clippers,2.65,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetRivers,h2h,Memphis Grizzlies,1.5,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetRivers,spreads,Los Angeles Clippers,1.88,5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetRivers,spreads,Memphis Grizzlies,1.93,-5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetRivers,totals,Over,1.89,229.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetRivers,totals,Under,1.92,229.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,LowVig.ag,h2h,Los Angeles Clippers,2.85,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,LowVig.ag,h2h,Memphis Grizzlies,1.47,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,LowVig.ag,spreads,Los Angeles Clippers,1.97,5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,LowVig.ag,spreads,Memphis Grizzlies,1.92,-5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,LowVig.ag,totals,Over,1.93,229.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,LowVig.ag,totals,Under,1.93,229.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetOnline.ag,h2h,Los Angeles Clippers,2.85,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetOnline.ag,h2h,Memphis Grizzlies,1.47,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetOnline.ag,spreads,Los Angeles Clippers,1.93,5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetOnline.ag,spreads,Memphis Grizzlies,1.88,-5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetOnline.ag,totals,Over,1.91,229.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetOnline.ag,totals,Under,1.91,229.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,Bovada,h2h,Los Angeles Clippers,2.75,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,Bovada,h2h,Memphis Grizzlies,1.48,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,Bovada,spreads,Los Angeles Clippers,1.91,5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,Bovada,spreads,Memphis Grizzlies,1.91,-5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,Bovada,totals,Over,1.95,229.0
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,Bovada,totals,Under,1.87,229.0
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetUS,h2h,Los Angeles Clippers,2.83,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetUS,h2h,Memphis Grizzlies,1.47,
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetUS,spreads,Los Angeles Clippers,1.95,5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetUS,spreads,Memphis Grizzlies,1.87,-5.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetUS,totals,Over,1.91,229.5
-2024-12-24T01:10:00Z,Memphis Grizzlies,Los Angeles Clippers,BetUS,totals,Under,1.91,229.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetOnline.ag,h2h,Oklahoma City Thunder,1.05,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetOnline.ag,h2h,Washington Wizards,11.0,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetOnline.ag,spreads,Oklahoma City Thunder,1.91,-18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetOnline.ag,spreads,Washington Wizards,1.91,18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetOnline.ag,totals,Over,1.87,226.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetOnline.ag,totals,Under,1.95,226.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,LowVig.ag,h2h,Oklahoma City Thunder,1.05,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,LowVig.ag,h2h,Washington Wizards,11.0,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,LowVig.ag,spreads,Oklahoma City Thunder,1.94,-18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,LowVig.ag,spreads,Washington Wizards,1.94,18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,LowVig.ag,totals,Over,1.88,226.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,LowVig.ag,totals,Under,1.98,226.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,DraftKings,h2h,Oklahoma City Thunder,1.05,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,DraftKings,h2h,Washington Wizards,12.0,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,DraftKings,spreads,Oklahoma City Thunder,1.93,-18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,DraftKings,spreads,Washington Wizards,1.89,18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,DraftKings,totals,Over,1.93,226.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,DraftKings,totals,Under,1.89,226.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,FanDuel,h2h,Oklahoma City Thunder,1.06,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,FanDuel,h2h,Washington Wizards,10.8,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,FanDuel,spreads,Oklahoma City Thunder,1.91,-18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,FanDuel,spreads,Washington Wizards,1.91,18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,FanDuel,totals,Over,1.91,226.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,FanDuel,totals,Under,1.91,226.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetMGM,h2h,Oklahoma City Thunder,1.04,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetMGM,h2h,Washington Wizards,12.0,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetMGM,spreads,Oklahoma City Thunder,1.95,-18.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetMGM,spreads,Washington Wizards,1.87,18.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetMGM,totals,Over,1.91,226.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetMGM,totals,Under,1.91,226.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,MyBookie.ag,h2h,Oklahoma City Thunder,1.05,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,MyBookie.ag,h2h,Washington Wizards,10.38,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,MyBookie.ag,spreads,Oklahoma City Thunder,1.91,-18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,MyBookie.ag,spreads,Washington Wizards,1.91,18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,MyBookie.ag,totals,Over,1.91,226.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,MyBookie.ag,totals,Under,1.91,226.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetUS,h2h,Oklahoma City Thunder,1.05,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetUS,h2h,Washington Wizards,11.75,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetUS,spreads,Oklahoma City Thunder,1.91,-18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetUS,spreads,Washington Wizards,1.91,18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetUS,totals,Over,1.91,226.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetUS,totals,Under,1.91,226.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetRivers,h2h,Oklahoma City Thunder,1.05,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetRivers,h2h,Washington Wizards,11.5,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetRivers,spreads,Oklahoma City Thunder,1.91,-17.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetRivers,spreads,Washington Wizards,1.91,17.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetRivers,totals,Over,1.92,226.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,BetRivers,totals,Under,1.89,226.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,Bovada,h2h,Oklahoma City Thunder,1.05,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,Bovada,h2h,Washington Wizards,10.0,
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,Bovada,spreads,Oklahoma City Thunder,1.91,-18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,Bovada,spreads,Washington Wizards,1.91,18.0
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,Bovada,totals,Over,1.91,226.5
-2024-12-24T01:10:00Z,Oklahoma City Thunder,Washington Wizards,Bovada,totals,Under,1.91,226.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,DraftKings,h2h,Dallas Mavericks,1.17,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,DraftKings,h2h,Portland Trail Blazers,5.4,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,DraftKings,spreads,Dallas Mavericks,1.93,-11.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,DraftKings,spreads,Portland Trail Blazers,1.89,11.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,DraftKings,totals,Over,1.91,229.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,DraftKings,totals,Under,1.91,229.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,MyBookie.ag,h2h,Dallas Mavericks,1.16,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,MyBookie.ag,h2h,Portland Trail Blazers,5.28,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,MyBookie.ag,spreads,Dallas Mavericks,1.91,-11.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,MyBookie.ag,spreads,Portland Trail Blazers,1.91,11.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,MyBookie.ag,totals,Over,1.91,230.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,MyBookie.ag,totals,Under,1.91,230.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,FanDuel,h2h,Dallas Mavericks,1.16,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,FanDuel,h2h,Portland Trail Blazers,5.6,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,FanDuel,spreads,Dallas Mavericks,1.91,-11.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,FanDuel,spreads,Portland Trail Blazers,1.91,11.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,FanDuel,totals,Over,1.91,230.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,FanDuel,totals,Under,1.91,230.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetRivers,h2h,Dallas Mavericks,1.16,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetRivers,h2h,Portland Trail Blazers,5.6,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetRivers,spreads,Dallas Mavericks,1.89,-11.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetRivers,spreads,Portland Trail Blazers,1.92,11.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetRivers,totals,Over,1.89,229.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetRivers,totals,Under,1.92,229.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,LowVig.ag,h2h,Dallas Mavericks,1.17,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,LowVig.ag,h2h,Portland Trail Blazers,5.55,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,LowVig.ag,spreads,Dallas Mavericks,1.9,-10.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,LowVig.ag,spreads,Portland Trail Blazers,1.99,10.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,LowVig.ag,totals,Over,1.93,229.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,LowVig.ag,totals,Under,1.93,229.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetOnline.ag,h2h,Dallas Mavericks,1.17,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetOnline.ag,h2h,Portland Trail Blazers,5.55,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetOnline.ag,spreads,Dallas Mavericks,1.87,-10.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetOnline.ag,spreads,Portland Trail Blazers,1.95,10.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetOnline.ag,totals,Over,1.91,229.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetOnline.ag,totals,Under,1.91,229.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetMGM,h2h,Dallas Mavericks,1.15,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetMGM,h2h,Portland Trail Blazers,5.5,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetMGM,spreads,Dallas Mavericks,1.87,-10.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetMGM,spreads,Portland Trail Blazers,1.95,10.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetMGM,totals,Over,1.91,229.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetMGM,totals,Under,1.91,229.5
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetUS,h2h,Dallas Mavericks,1.17,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetUS,h2h,Portland Trail Blazers,5.4,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetUS,spreads,Dallas Mavericks,1.91,-11.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetUS,spreads,Portland Trail Blazers,1.91,11.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetUS,totals,Over,1.91,230.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,BetUS,totals,Under,1.91,230.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,Bovada,h2h,Dallas Mavericks,1.17,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,Bovada,h2h,Portland Trail Blazers,5.1,
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,Bovada,spreads,Dallas Mavericks,1.95,-11.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,Bovada,spreads,Portland Trail Blazers,1.87,11.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,Bovada,totals,Over,1.95,230.0
-2024-12-24T01:40:00Z,Dallas Mavericks,Portland Trail Blazers,Bovada,totals,Under,1.87,230.0
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,FanDuel,h2h,Denver Nuggets,1.53,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,FanDuel,h2h,Phoenix Suns,2.58,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,FanDuel,spreads,Denver Nuggets,1.91,-4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,FanDuel,spreads,Phoenix Suns,1.91,4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,FanDuel,totals,Over,1.91,232.0
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,FanDuel,totals,Under,1.91,232.0
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,MyBookie.ag,h2h,Denver Nuggets,1.54,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,MyBookie.ag,h2h,Phoenix Suns,2.5,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,MyBookie.ag,spreads,Denver Nuggets,1.91,-4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,MyBookie.ag,spreads,Phoenix Suns,1.91,4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,MyBookie.ag,totals,Over,1.91,232.0
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,MyBookie.ag,totals,Under,1.91,232.0
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,DraftKings,h2h,Denver Nuggets,1.56,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,DraftKings,h2h,Phoenix Suns,2.5,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,DraftKings,spreads,Denver Nuggets,1.89,-4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,DraftKings,spreads,Phoenix Suns,1.93,4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,DraftKings,totals,Over,1.93,232.0
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,DraftKings,totals,Under,1.89,232.0
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetRivers,h2h,Denver Nuggets,1.56,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetRivers,h2h,Phoenix Suns,2.5,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetRivers,spreads,Denver Nuggets,1.89,-4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetRivers,spreads,Phoenix Suns,1.92,4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetRivers,totals,Over,1.91,232.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetRivers,totals,Under,1.91,232.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetMGM,h2h,Denver Nuggets,1.53,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetMGM,h2h,Phoenix Suns,2.55,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetMGM,spreads,Denver Nuggets,1.91,-4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetMGM,spreads,Phoenix Suns,1.91,4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetMGM,totals,Over,1.87,231.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetMGM,totals,Under,1.95,231.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,LowVig.ag,h2h,Denver Nuggets,1.53,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,LowVig.ag,h2h,Phoenix Suns,2.65,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,LowVig.ag,spreads,Denver Nuggets,1.94,-4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,LowVig.ag,spreads,Phoenix Suns,1.94,4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,LowVig.ag,totals,Over,1.93,231.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,LowVig.ag,totals,Under,1.93,231.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetOnline.ag,h2h,Denver Nuggets,1.53,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetOnline.ag,h2h,Phoenix Suns,2.65,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetOnline.ag,spreads,Denver Nuggets,1.91,-4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetOnline.ag,spreads,Phoenix Suns,1.91,4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetOnline.ag,totals,Over,1.91,231.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetOnline.ag,totals,Under,1.91,231.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,Bovada,h2h,Denver Nuggets,1.51,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,Bovada,h2h,Phoenix Suns,2.65,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,Bovada,spreads,Denver Nuggets,1.87,-4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,Bovada,spreads,Phoenix Suns,1.95,4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,Bovada,totals,Over,1.91,230.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,Bovada,totals,Under,1.91,230.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetUS,h2h,Denver Nuggets,1.54,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetUS,h2h,Phoenix Suns,2.59,
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetUS,spreads,Denver Nuggets,1.91,-4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetUS,spreads,Phoenix Suns,1.91,4.5
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetUS,totals,Over,1.91,232.0
-2024-12-24T03:10:00Z,Denver Nuggets,Phoenix Suns,BetUS,totals,Under,1.91,232.0
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,DraftKings,h2h,Golden State Warriors,1.44,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,DraftKings,h2h,Indiana Pacers,2.85,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,DraftKings,spreads,Golden State Warriors,1.87,-5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,DraftKings,spreads,Indiana Pacers,1.95,5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,DraftKings,totals,Over,1.93,229.0
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,DraftKings,totals,Under,1.89,229.0
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,FanDuel,h2h,Golden State Warriors,1.44,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,FanDuel,h2h,Indiana Pacers,2.88,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,FanDuel,spreads,Golden State Warriors,1.91,-5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,FanDuel,spreads,Indiana Pacers,1.91,5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,FanDuel,totals,Over,1.91,229.0
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,FanDuel,totals,Under,1.91,229.0
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,MyBookie.ag,h2h,Golden State Warriors,1.45,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,MyBookie.ag,h2h,Indiana Pacers,2.77,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,MyBookie.ag,spreads,Golden State Warriors,1.91,-5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,MyBookie.ag,spreads,Indiana Pacers,1.91,5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,MyBookie.ag,totals,Over,1.91,228.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,MyBookie.ag,totals,Under,1.91,228.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetRivers,h2h,Golden State Warriors,1.49,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetRivers,h2h,Indiana Pacers,2.7,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetRivers,spreads,Golden State Warriors,1.91,-5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetRivers,spreads,Indiana Pacers,1.91,5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetRivers,totals,Over,1.91,229.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetRivers,totals,Under,1.91,229.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetOnline.ag,h2h,Golden State Warriors,1.47,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetOnline.ag,h2h,Indiana Pacers,2.85,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetOnline.ag,spreads,Golden State Warriors,1.87,-5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetOnline.ag,spreads,Indiana Pacers,1.95,5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetOnline.ag,totals,Over,1.91,228.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetOnline.ag,totals,Under,1.91,228.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,LowVig.ag,h2h,Golden State Warriors,1.47,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,LowVig.ag,h2h,Indiana Pacers,2.85,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,LowVig.ag,spreads,Golden State Warriors,1.9,-5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,LowVig.ag,spreads,Indiana Pacers,1.99,5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,LowVig.ag,totals,Over,1.93,228.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,LowVig.ag,totals,Under,1.93,228.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetMGM,h2h,Golden State Warriors,1.44,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetMGM,h2h,Indiana Pacers,2.8,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetMGM,spreads,Golden State Warriors,1.87,-5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetMGM,spreads,Indiana Pacers,1.95,5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetMGM,totals,Over,1.91,228.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetMGM,totals,Under,1.91,228.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetUS,h2h,Golden State Warriors,1.44,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetUS,h2h,Indiana Pacers,2.9,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetUS,spreads,Golden State Warriors,1.87,-5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetUS,spreads,Indiana Pacers,1.95,5.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetUS,totals,Over,1.91,228.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,BetUS,totals,Under,1.91,228.5
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,Bovada,h2h,Golden State Warriors,1.44,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,Bovada,h2h,Indiana Pacers,2.85,
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,Bovada,spreads,Golden State Warriors,1.91,-6.0
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,Bovada,spreads,Indiana Pacers,1.91,6.0
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,Bovada,totals,Over,1.91,229.0
-2024-12-24T03:10:00Z,Golden State Warriors,Indiana Pacers,Bovada,totals,Under,1.91,229.0
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetOnline.ag,h2h,Detroit Pistons,2.85,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetOnline.ag,h2h,Los Angeles Lakers,1.47,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetOnline.ag,spreads,Detroit Pistons,1.93,5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetOnline.ag,spreads,Los Angeles Lakers,1.89,-5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetOnline.ag,totals,Over,1.91,223.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetOnline.ag,totals,Under,1.91,223.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,LowVig.ag,h2h,Detroit Pistons,2.85,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,LowVig.ag,h2h,Los Angeles Lakers,1.47,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,LowVig.ag,spreads,Detroit Pistons,1.96,5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,LowVig.ag,spreads,Los Angeles Lakers,1.93,-5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,LowVig.ag,totals,Over,1.93,223.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,LowVig.ag,totals,Under,1.93,223.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,DraftKings,h2h,Detroit Pistons,2.85,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,DraftKings,h2h,Los Angeles Lakers,1.44,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,DraftKings,spreads,Detroit Pistons,1.95,5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,DraftKings,spreads,Los Angeles Lakers,1.87,-5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,DraftKings,totals,Over,1.89,223.0
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,DraftKings,totals,Under,1.93,223.0
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetMGM,h2h,Detroit Pistons,2.8,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetMGM,h2h,Los Angeles Lakers,1.44,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetMGM,spreads,Detroit Pistons,1.91,5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetMGM,spreads,Los Angeles Lakers,1.91,-5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetMGM,totals,Over,1.87,222.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetMGM,totals,Under,1.95,222.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,MyBookie.ag,h2h,Detroit Pistons,2.8,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,MyBookie.ag,h2h,Los Angeles Lakers,1.44,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,MyBookie.ag,spreads,Detroit Pistons,1.91,5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,MyBookie.ag,spreads,Los Angeles Lakers,1.91,-5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,MyBookie.ag,totals,Over,1.91,223.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,MyBookie.ag,totals,Under,1.91,223.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,FanDuel,h2h,Detroit Pistons,2.8,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,FanDuel,h2h,Los Angeles Lakers,1.47,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,FanDuel,spreads,Detroit Pistons,1.88,6.0
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,FanDuel,spreads,Los Angeles Lakers,1.94,-6.0
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,FanDuel,totals,Over,1.89,222.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,FanDuel,totals,Under,1.93,222.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetRivers,h2h,Detroit Pistons,2.8,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetRivers,h2h,Los Angeles Lakers,1.45,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetRivers,spreads,Detroit Pistons,1.93,5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetRivers,spreads,Los Angeles Lakers,1.88,-5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetRivers,totals,Over,1.91,224.0
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetRivers,totals,Under,1.91,224.0
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetUS,h2h,Detroit Pistons,2.85,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetUS,h2h,Los Angeles Lakers,1.45,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetUS,spreads,Detroit Pistons,1.91,5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetUS,spreads,Los Angeles Lakers,1.91,-5.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetUS,totals,Over,1.91,222.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,BetUS,totals,Under,1.91,222.5
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,Bovada,h2h,Detroit Pistons,2.85,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,Bovada,h2h,Los Angeles Lakers,1.44,
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,Bovada,spreads,Detroit Pistons,1.87,6.0
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,Bovada,spreads,Los Angeles Lakers,1.95,-6.0
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,Bovada,totals,Over,1.91,224.0
-2024-12-24T03:40:00Z,Los Angeles Lakers,Detroit Pistons,Bovada,totals,Under,1.91,224.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,DraftKings,h2h,New York Knicks,1.24,
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,DraftKings,h2h,San Antonio Spurs,4.2,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,DraftKings,h2h,New York Knicks,1.25,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,DraftKings,h2h,San Antonio Spurs,4.1,
 2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,DraftKings,spreads,New York Knicks,1.91,-9.0
 2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,DraftKings,spreads,San Antonio Spurs,1.91,9.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,DraftKings,totals,Over,1.91,226.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,DraftKings,totals,Under,1.91,226.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,FanDuel,h2h,New York Knicks,1.26,
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,FanDuel,h2h,San Antonio Spurs,4.1,
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,FanDuel,spreads,New York Knicks,1.91,-9.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,FanDuel,spreads,San Antonio Spurs,1.91,9.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,FanDuel,totals,Over,1.91,225.5
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,FanDuel,totals,Under,1.91,225.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,DraftKings,totals,Over,1.93,224.0
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,DraftKings,totals,Under,1.89,224.0
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,FanDuel,h2h,New York Knicks,1.25,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,FanDuel,h2h,San Antonio Spurs,4.15,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,FanDuel,spreads,New York Knicks,1.89,-9.0
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,FanDuel,spreads,San Antonio Spurs,1.93,9.0
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,FanDuel,totals,Over,1.91,223.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,FanDuel,totals,Under,1.91,223.5
 2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,Bovada,h2h,New York Knicks,1.24,
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,Bovada,h2h,San Antonio Spurs,4.1,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,Bovada,h2h,San Antonio Spurs,4.15,
 2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,Bovada,spreads,New York Knicks,1.91,-9.0
 2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,Bovada,spreads,San Antonio Spurs,1.91,9.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,Bovada,totals,Over,1.91,226.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,Bovada,totals,Under,1.91,226.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetMGM,h2h,New York Knicks,1.22,
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetMGM,h2h,San Antonio Spurs,4.4,
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetMGM,spreads,New York Knicks,1.91,-9.5
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetMGM,spreads,San Antonio Spurs,1.91,9.5
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetMGM,totals,Over,1.91,226.5
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetMGM,totals,Under,1.91,226.5
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetOnline.ag,h2h,New York Knicks,1.25,
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetOnline.ag,h2h,San Antonio Spurs,4.2,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,Bovada,totals,Over,1.91,223.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,Bovada,totals,Under,1.91,223.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetMGM,h2h,New York Knicks,1.25,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetMGM,h2h,San Antonio Spurs,4.1,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetMGM,spreads,New York Knicks,1.95,-9.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetMGM,spreads,San Antonio Spurs,1.87,9.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetMGM,totals,Over,1.91,223.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetMGM,totals,Under,1.91,223.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetOnline.ag,h2h,New York Knicks,1.26,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetOnline.ag,h2h,San Antonio Spurs,4.1,
 2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetOnline.ag,spreads,New York Knicks,1.91,-9.0
 2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetOnline.ag,spreads,San Antonio Spurs,1.91,9.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetOnline.ag,totals,Over,1.91,225.5
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetOnline.ag,totals,Under,1.91,225.5
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,LowVig.ag,h2h,New York Knicks,1.25,
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,LowVig.ag,h2h,San Antonio Spurs,4.2,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetOnline.ag,totals,Over,1.91,223.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetOnline.ag,totals,Under,1.91,223.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,LowVig.ag,h2h,New York Knicks,1.26,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,LowVig.ag,h2h,San Antonio Spurs,4.1,
 2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,LowVig.ag,spreads,New York Knicks,1.94,-9.0
 2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,LowVig.ag,spreads,San Antonio Spurs,1.94,9.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,LowVig.ag,totals,Over,1.93,225.5
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,LowVig.ag,totals,Under,1.93,225.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,LowVig.ag,totals,Over,1.93,223.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,LowVig.ag,totals,Under,1.93,223.5
 2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,MyBookie.ag,h2h,New York Knicks,1.24,
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,MyBookie.ag,h2h,San Antonio Spurs,4.11,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,MyBookie.ag,h2h,San Antonio Spurs,4.13,
 2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,MyBookie.ag,spreads,New York Knicks,1.91,-9.0
 2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,MyBookie.ag,spreads,San Antonio Spurs,1.91,9.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,MyBookie.ag,totals,Over,1.91,226.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,MyBookie.ag,totals,Under,1.91,226.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetRivers,h2h,New York Knicks,1.25,
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetRivers,h2h,San Antonio Spurs,4.1,
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetRivers,spreads,New York Knicks,1.91,-9.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetRivers,spreads,San Antonio Spurs,1.91,9.0
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetRivers,totals,Over,1.89,225.5
-2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetRivers,totals,Under,1.92,225.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,DraftKings,h2h,Dallas Mavericks,1.52,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,DraftKings,h2h,Minnesota Timberwolves,2.6,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,DraftKings,spreads,Dallas Mavericks,1.93,-4.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,DraftKings,spreads,Minnesota Timberwolves,1.89,4.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,DraftKings,totals,Over,1.93,223.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,DraftKings,totals,Under,1.89,223.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,FanDuel,h2h,Dallas Mavericks,1.5,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,FanDuel,h2h,Minnesota Timberwolves,2.68,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,FanDuel,spreads,Dallas Mavericks,1.93,-5.0
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,FanDuel,spreads,Minnesota Timberwolves,1.89,5.0
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,FanDuel,totals,Over,1.91,223.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,FanDuel,totals,Under,1.91,223.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,Bovada,h2h,Dallas Mavericks,1.54,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,Bovada,h2h,Minnesota Timberwolves,2.6,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,Bovada,spreads,Dallas Mavericks,1.91,-4.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,Bovada,spreads,Minnesota Timberwolves,1.91,4.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,Bovada,totals,Over,1.95,224.0
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,Bovada,totals,Under,1.87,224.0
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetOnline.ag,h2h,Dallas Mavericks,1.57,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetOnline.ag,h2h,Minnesota Timberwolves,2.55,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetOnline.ag,spreads,Dallas Mavericks,1.95,-4.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetOnline.ag,spreads,Minnesota Timberwolves,1.87,4.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetOnline.ag,totals,Over,1.91,223.0
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetOnline.ag,totals,Under,1.91,223.0
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,LowVig.ag,h2h,Dallas Mavericks,1.57,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,LowVig.ag,h2h,Minnesota Timberwolves,2.55,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,LowVig.ag,spreads,Dallas Mavericks,1.99,-4.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,LowVig.ag,spreads,Minnesota Timberwolves,1.9,4.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,LowVig.ag,totals,Over,1.93,223.0
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,LowVig.ag,totals,Under,1.93,223.0
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,MyBookie.ag,h2h,Dallas Mavericks,1.5,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,MyBookie.ag,h2h,Minnesota Timberwolves,2.54,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,MyBookie.ag,spreads,Dallas Mavericks,1.91,-4.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,MyBookie.ag,spreads,Minnesota Timberwolves,1.91,4.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,MyBookie.ag,totals,Over,1.91,223.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,MyBookie.ag,totals,Under,1.91,223.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetRivers,h2h,Dallas Mavericks,1.57,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetRivers,h2h,Minnesota Timberwolves,2.45,
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetRivers,spreads,Dallas Mavericks,1.89,-4.0
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetRivers,spreads,Minnesota Timberwolves,1.92,4.0
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetRivers,totals,Over,1.91,223.5
-2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetRivers,totals,Under,1.91,223.5
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,DraftKings,h2h,Boston Celtics,1.24,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,DraftKings,h2h,Philadelphia 76ers,4.2,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,DraftKings,spreads,Boston Celtics,1.91,-9.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,DraftKings,spreads,Philadelphia 76ers,1.91,9.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,DraftKings,totals,Over,1.91,222.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,DraftKings,totals,Under,1.91,222.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,FanDuel,h2h,Boston Celtics,1.21,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,FanDuel,h2h,Philadelphia 76ers,4.7,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,FanDuel,spreads,Boston Celtics,1.91,-9.5
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,FanDuel,spreads,Philadelphia 76ers,1.91,9.5
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,FanDuel,totals,Over,1.91,221.5
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,FanDuel,totals,Under,1.91,221.5
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,Bovada,h2h,Boston Celtics,1.24,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,Bovada,h2h,Philadelphia 76ers,4.1,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,Bovada,spreads,Boston Celtics,1.87,-9.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,Bovada,spreads,Philadelphia 76ers,1.95,9.0
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,MyBookie.ag,totals,Over,1.91,223.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,MyBookie.ag,totals,Under,1.91,223.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetRivers,h2h,New York Knicks,1.24,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetRivers,h2h,San Antonio Spurs,4.3,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetRivers,spreads,New York Knicks,1.88,-9.0
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetRivers,spreads,San Antonio Spurs,1.93,9.0
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetRivers,totals,Over,1.89,223.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetRivers,totals,Under,1.92,223.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetUS,h2h,New York Knicks,1.26,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetUS,h2h,San Antonio Spurs,4.05,
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetUS,spreads,New York Knicks,1.91,-9.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetUS,spreads,San Antonio Spurs,1.91,9.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetUS,totals,Over,1.91,223.5
+2024-12-25T17:00:00Z,New York Knicks,San Antonio Spurs,BetUS,totals,Under,1.91,223.5
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,DraftKings,h2h,Dallas Mavericks,1.49,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,DraftKings,h2h,Minnesota Timberwolves,2.7,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,DraftKings,spreads,Dallas Mavericks,1.89,-5.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,DraftKings,spreads,Minnesota Timberwolves,1.93,5.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,DraftKings,totals,Over,1.89,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,DraftKings,totals,Under,1.93,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,FanDuel,h2h,Dallas Mavericks,1.48,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,FanDuel,h2h,Minnesota Timberwolves,2.76,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,FanDuel,spreads,Dallas Mavericks,1.93,-5.5
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,FanDuel,spreads,Minnesota Timberwolves,1.89,5.5
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,FanDuel,totals,Over,1.91,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,FanDuel,totals,Under,1.91,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,Bovada,h2h,Dallas Mavericks,1.48,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,Bovada,h2h,Minnesota Timberwolves,2.75,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,Bovada,spreads,Dallas Mavericks,1.95,-5.5
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,Bovada,spreads,Minnesota Timberwolves,1.87,5.5
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,Bovada,totals,Over,1.95,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,Bovada,totals,Under,1.87,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetMGM,h2h,Dallas Mavericks,1.48,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetMGM,h2h,Minnesota Timberwolves,2.7,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetMGM,spreads,Dallas Mavericks,1.95,-5.5
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetMGM,spreads,Minnesota Timberwolves,1.87,5.5
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetMGM,totals,Over,1.95,221.5
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetMGM,totals,Under,1.87,221.5
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetOnline.ag,h2h,Dallas Mavericks,1.48,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetOnline.ag,h2h,Minnesota Timberwolves,2.8,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetOnline.ag,spreads,Dallas Mavericks,1.88,-5.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetOnline.ag,spreads,Minnesota Timberwolves,1.93,5.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetOnline.ag,totals,Over,1.87,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetOnline.ag,totals,Under,1.95,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,LowVig.ag,h2h,Dallas Mavericks,1.48,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,LowVig.ag,h2h,Minnesota Timberwolves,2.8,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,LowVig.ag,spreads,Dallas Mavericks,1.92,-5.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,LowVig.ag,spreads,Minnesota Timberwolves,1.97,5.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,LowVig.ag,totals,Over,1.88,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,LowVig.ag,totals,Under,1.98,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,MyBookie.ag,h2h,Dallas Mavericks,1.47,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,MyBookie.ag,h2h,Minnesota Timberwolves,2.69,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,MyBookie.ag,spreads,Dallas Mavericks,1.91,-5.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,MyBookie.ag,spreads,Minnesota Timberwolves,1.91,5.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,MyBookie.ag,totals,Over,1.91,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,MyBookie.ag,totals,Under,1.91,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetRivers,h2h,Dallas Mavericks,1.5,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetRivers,h2h,Minnesota Timberwolves,2.65,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetRivers,spreads,Dallas Mavericks,1.88,-5.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetRivers,spreads,Minnesota Timberwolves,1.93,5.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetRivers,totals,Over,1.92,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetRivers,totals,Under,1.89,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetUS,h2h,Dallas Mavericks,1.48,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetUS,h2h,Minnesota Timberwolves,2.8,
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetUS,spreads,Dallas Mavericks,1.91,-5.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetUS,spreads,Minnesota Timberwolves,1.91,5.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetUS,totals,Over,1.91,221.0
+2024-12-25T19:30:00Z,Dallas Mavericks,Minnesota Timberwolves,BetUS,totals,Under,1.91,221.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,DraftKings,h2h,Boston Celtics,1.21,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,DraftKings,h2h,Philadelphia 76ers,4.7,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,DraftKings,spreads,Boston Celtics,1.95,-10.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,DraftKings,spreads,Philadelphia 76ers,1.87,10.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,DraftKings,totals,Over,1.95,222.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,DraftKings,totals,Under,1.87,222.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,FanDuel,h2h,Boston Celtics,1.22,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,FanDuel,h2h,Philadelphia 76ers,4.6,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,FanDuel,spreads,Boston Celtics,1.93,-10.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,FanDuel,spreads,Philadelphia 76ers,1.89,10.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,FanDuel,totals,Over,1.89,222.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,FanDuel,totals,Under,1.93,222.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,Bovada,h2h,Boston Celtics,1.22,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,Bovada,h2h,Philadelphia 76ers,4.4,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,Bovada,spreads,Boston Celtics,1.91,-10.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,Bovada,spreads,Philadelphia 76ers,1.91,10.0
 2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,Bovada,totals,Over,1.91,222.0
 2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,Bovada,totals,Under,1.91,222.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetMGM,h2h,Boston Celtics,1.25,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetMGM,h2h,Philadelphia 76ers,4.25,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetMGM,spreads,Boston Celtics,1.95,-9.5
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetMGM,spreads,Philadelphia 76ers,1.87,9.5
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetMGM,totals,Over,1.95,222.5
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetMGM,totals,Under,1.87,222.5
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetOnline.ag,h2h,Boston Celtics,1.25,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetOnline.ag,h2h,Philadelphia 76ers,4.2,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetOnline.ag,spreads,Boston Celtics,1.91,-9.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetOnline.ag,spreads,Philadelphia 76ers,1.91,9.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetMGM,h2h,Boston Celtics,1.2,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetMGM,h2h,Philadelphia 76ers,4.6,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetMGM,spreads,Boston Celtics,1.87,-9.5
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetMGM,spreads,Philadelphia 76ers,1.95,9.5
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetMGM,totals,Over,1.87,221.5
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetMGM,totals,Under,1.95,221.5
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetOnline.ag,h2h,Boston Celtics,1.22,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetOnline.ag,h2h,Philadelphia 76ers,4.6,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetOnline.ag,spreads,Boston Celtics,1.91,-10.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetOnline.ag,spreads,Philadelphia 76ers,1.91,10.0
 2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetOnline.ag,totals,Over,1.91,222.0
 2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetOnline.ag,totals,Under,1.91,222.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,LowVig.ag,h2h,Boston Celtics,1.25,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,LowVig.ag,h2h,Philadelphia 76ers,4.2,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,LowVig.ag,spreads,Boston Celtics,1.94,-9.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,LowVig.ag,spreads,Philadelphia 76ers,1.94,9.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,LowVig.ag,h2h,Boston Celtics,1.22,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,LowVig.ag,h2h,Philadelphia 76ers,4.6,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,LowVig.ag,spreads,Boston Celtics,1.94,-10.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,LowVig.ag,spreads,Philadelphia 76ers,1.94,10.0
 2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,LowVig.ag,totals,Over,1.93,222.0
 2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,LowVig.ag,totals,Under,1.93,222.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,MyBookie.ag,h2h,Boston Celtics,1.23,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,MyBookie.ag,h2h,Philadelphia 76ers,4.06,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,MyBookie.ag,spreads,Boston Celtics,1.91,-9.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,MyBookie.ag,spreads,Philadelphia 76ers,1.91,9.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,MyBookie.ag,h2h,Boston Celtics,1.2,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,MyBookie.ag,h2h,Philadelphia 76ers,4.65,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,MyBookie.ag,spreads,Boston Celtics,1.91,-10.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,MyBookie.ag,spreads,Philadelphia 76ers,1.91,10.0
 2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,MyBookie.ag,totals,Over,1.91,222.0
 2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,MyBookie.ag,totals,Under,1.91,222.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetRivers,h2h,Boston Celtics,1.26,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetRivers,h2h,Philadelphia 76ers,4.0,
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetRivers,spreads,Boston Celtics,1.91,-9.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetRivers,spreads,Philadelphia 76ers,1.91,9.0
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetRivers,totals,Over,1.88,221.5
-2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetRivers,totals,Under,1.93,221.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,DraftKings,h2h,Golden State Warriors,1.52,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,DraftKings,h2h,Los Angeles Lakers,2.6,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,DraftKings,spreads,Golden State Warriors,1.91,-4.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,DraftKings,spreads,Los Angeles Lakers,1.91,4.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,DraftKings,totals,Over,1.91,229.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,DraftKings,totals,Under,1.91,229.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,FanDuel,h2h,Golden State Warriors,1.53,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,FanDuel,h2h,Los Angeles Lakers,2.6,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,FanDuel,spreads,Golden State Warriors,1.93,-5.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,FanDuel,spreads,Los Angeles Lakers,1.89,5.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,FanDuel,totals,Over,1.91,228.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,FanDuel,totals,Under,1.91,228.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,Bovada,h2h,Golden State Warriors,1.54,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,Bovada,h2h,Los Angeles Lakers,2.6,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,Bovada,spreads,Golden State Warriors,1.91,-4.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,Bovada,spreads,Los Angeles Lakers,1.91,4.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,Bovada,totals,Over,1.91,229.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,Bovada,totals,Under,1.91,229.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetMGM,h2h,Golden State Warriors,1.53,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetMGM,h2h,Los Angeles Lakers,2.55,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetMGM,spreads,Golden State Warriors,1.91,-4.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetMGM,spreads,Los Angeles Lakers,1.91,4.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetMGM,totals,Over,1.87,230.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetMGM,totals,Under,1.95,230.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetOnline.ag,h2h,Golden State Warriors,1.58,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetOnline.ag,h2h,Los Angeles Lakers,2.52,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetOnline.ag,spreads,Golden State Warriors,1.87,-4.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetOnline.ag,spreads,Los Angeles Lakers,1.95,4.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetOnline.ag,totals,Over,1.91,229.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetOnline.ag,totals,Under,1.91,229.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,LowVig.ag,h2h,Golden State Warriors,1.58,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,LowVig.ag,h2h,Los Angeles Lakers,2.52,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,LowVig.ag,spreads,Golden State Warriors,1.9,-4.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,LowVig.ag,spreads,Los Angeles Lakers,1.99,4.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,LowVig.ag,totals,Over,1.93,229.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,LowVig.ag,totals,Under,1.93,229.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,MyBookie.ag,h2h,Golden State Warriors,1.51,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,MyBookie.ag,h2h,Los Angeles Lakers,2.52,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,MyBookie.ag,spreads,Golden State Warriors,1.91,-4.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,MyBookie.ag,spreads,Los Angeles Lakers,1.91,4.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,MyBookie.ag,totals,Over,1.91,229.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,MyBookie.ag,totals,Under,1.91,229.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetRivers,h2h,Golden State Warriors,1.57,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetRivers,h2h,Los Angeles Lakers,2.43,
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetRivers,spreads,Golden State Warriors,1.93,-4.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetRivers,spreads,Los Angeles Lakers,1.88,4.5
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetRivers,totals,Over,1.91,230.0
-2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetRivers,totals,Under,1.91,230.0
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,DraftKings,h2h,Denver Nuggets,1.8,
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,DraftKings,h2h,Phoenix Suns,2.05,
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,DraftKings,spreads,Denver Nuggets,1.89,-1.5
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,DraftKings,spreads,Phoenix Suns,1.93,1.5
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,DraftKings,totals,Over,1.89,234.0
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,DraftKings,totals,Under,1.93,234.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetRivers,h2h,Boston Celtics,1.21,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetRivers,h2h,Philadelphia 76ers,4.6,
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetRivers,spreads,Boston Celtics,1.88,-10.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetRivers,spreads,Philadelphia 76ers,1.93,10.0
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetRivers,totals,Over,1.91,222.5
+2024-12-25T22:00:00Z,Boston Celtics,Philadelphia 76ers,BetRivers,totals,Under,1.91,222.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,DraftKings,h2h,Golden State Warriors,1.59,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,DraftKings,h2h,Los Angeles Lakers,2.42,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,DraftKings,spreads,Golden State Warriors,1.95,-4.0
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,DraftKings,spreads,Los Angeles Lakers,1.87,4.0
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,DraftKings,totals,Over,1.91,223.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,DraftKings,totals,Under,1.91,223.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,FanDuel,h2h,Golden State Warriors,1.62,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,FanDuel,h2h,Los Angeles Lakers,2.36,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,FanDuel,spreads,Golden State Warriors,1.89,-3.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,FanDuel,spreads,Los Angeles Lakers,1.93,3.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,FanDuel,totals,Over,1.91,223.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,FanDuel,totals,Under,1.91,223.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,Bovada,h2h,Golden State Warriors,1.62,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,Bovada,h2h,Los Angeles Lakers,2.35,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,Bovada,spreads,Golden State Warriors,1.91,-3.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,Bovada,spreads,Los Angeles Lakers,1.91,3.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,Bovada,totals,Over,1.91,223.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,Bovada,totals,Under,1.91,223.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetMGM,h2h,Golden State Warriors,1.61,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetMGM,h2h,Los Angeles Lakers,2.4,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetMGM,spreads,Golden State Warriors,1.87,-3.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetMGM,spreads,Los Angeles Lakers,1.95,3.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetMGM,totals,Over,1.91,223.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetMGM,totals,Under,1.91,223.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetOnline.ag,h2h,Golden State Warriors,1.61,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetOnline.ag,h2h,Los Angeles Lakers,2.45,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetOnline.ag,spreads,Golden State Warriors,1.91,-4.0
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetOnline.ag,spreads,Los Angeles Lakers,1.91,4.0
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetOnline.ag,totals,Over,1.91,223.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetOnline.ag,totals,Under,1.91,223.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,LowVig.ag,h2h,Golden State Warriors,1.61,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,LowVig.ag,h2h,Los Angeles Lakers,2.45,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,LowVig.ag,spreads,Golden State Warriors,1.94,-4.0
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,LowVig.ag,spreads,Los Angeles Lakers,1.94,4.0
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,LowVig.ag,totals,Over,1.93,223.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,LowVig.ag,totals,Under,1.93,223.5
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,MyBookie.ag,h2h,Golden State Warriors,1.59,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,MyBookie.ag,h2h,Los Angeles Lakers,2.37,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,MyBookie.ag,spreads,Golden State Warriors,1.91,-4.0
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,MyBookie.ag,spreads,Los Angeles Lakers,1.91,4.0
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,MyBookie.ag,totals,Over,1.91,224.0
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,MyBookie.ag,totals,Under,1.91,224.0
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetRivers,h2h,Golden State Warriors,1.61,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetRivers,h2h,Los Angeles Lakers,2.35,
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetRivers,spreads,Golden State Warriors,1.92,-4.0
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetRivers,spreads,Los Angeles Lakers,1.89,4.0
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetRivers,totals,Over,1.92,224.0
+2024-12-26T01:00:00Z,Golden State Warriors,Los Angeles Lakers,BetRivers,totals,Under,1.89,224.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,DraftKings,h2h,Denver Nuggets,1.77,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,DraftKings,h2h,Phoenix Suns,2.1,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,DraftKings,spreads,Denver Nuggets,1.89,-2.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,DraftKings,spreads,Phoenix Suns,1.93,2.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,DraftKings,totals,Over,1.93,234.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,DraftKings,totals,Under,1.89,234.0
 2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,FanDuel,h2h,Denver Nuggets,1.79,
 2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,FanDuel,h2h,Phoenix Suns,2.08,
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,FanDuel,spreads,Denver Nuggets,1.91,-1.5
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,FanDuel,spreads,Phoenix Suns,1.91,1.5
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,FanDuel,totals,Over,1.91,234.5
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,FanDuel,totals,Under,1.91,234.5
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,Bovada,h2h,Denver Nuggets,1.87,
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,Bovada,h2h,Phoenix Suns,1.95,
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,Bovada,spreads,Denver Nuggets,1.91,-1.5
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,Bovada,spreads,Phoenix Suns,1.91,1.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,FanDuel,spreads,Denver Nuggets,1.91,-2.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,FanDuel,spreads,Phoenix Suns,1.91,2.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,FanDuel,totals,Over,1.91,233.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,FanDuel,totals,Under,1.91,233.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,Bovada,h2h,Denver Nuggets,1.77,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,Bovada,h2h,Phoenix Suns,2.1,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,Bovada,spreads,Denver Nuggets,1.91,-2.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,Bovada,spreads,Phoenix Suns,1.91,2.0
 2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,Bovada,totals,Over,1.91,234.0
 2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,Bovada,totals,Under,1.91,234.0
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetMGM,h2h,Denver Nuggets,1.87,
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetMGM,h2h,Phoenix Suns,1.95,
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetMGM,spreads,Denver Nuggets,1.95,-1.5
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetMGM,spreads,Phoenix Suns,1.87,1.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetMGM,h2h,Denver Nuggets,1.74,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetMGM,h2h,Phoenix Suns,2.1,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetMGM,spreads,Denver Nuggets,1.87,-1.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetMGM,spreads,Phoenix Suns,1.95,1.5
 2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetMGM,totals,Over,1.87,233.5
 2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetMGM,totals,Under,1.95,233.5
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,MyBookie.ag,h2h,Denver Nuggets,1.83,
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,MyBookie.ag,h2h,Phoenix Suns,1.95,
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,MyBookie.ag,spreads,Denver Nuggets,1.91,-1.0
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,MyBookie.ag,spreads,Phoenix Suns,1.91,1.0
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,MyBookie.ag,totals,Over,1.91,234.0
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,MyBookie.ag,totals,Under,1.91,234.0
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetRivers,h2h,Denver Nuggets,1.83,
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetRivers,h2h,Phoenix Suns,2.02,
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetRivers,spreads,Denver Nuggets,1.89,-1.5
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetRivers,spreads,Phoenix Suns,1.92,1.5
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetRivers,totals,Over,1.93,232.5
-2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetRivers,totals,Under,1.89,232.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetOnline.ag,h2h,Denver Nuggets,1.77,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetOnline.ag,h2h,Phoenix Suns,2.1,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetOnline.ag,spreads,Denver Nuggets,1.91,-2.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetOnline.ag,spreads,Phoenix Suns,1.91,2.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetOnline.ag,totals,Over,1.91,233.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetOnline.ag,totals,Under,1.91,233.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,LowVig.ag,h2h,Denver Nuggets,1.77,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,LowVig.ag,h2h,Phoenix Suns,2.1,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,LowVig.ag,spreads,Denver Nuggets,1.94,-2.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,LowVig.ag,spreads,Phoenix Suns,1.94,2.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,LowVig.ag,totals,Over,1.93,233.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,LowVig.ag,totals,Under,1.93,233.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,MyBookie.ag,h2h,Denver Nuggets,1.77,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,MyBookie.ag,h2h,Phoenix Suns,2.06,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,MyBookie.ag,spreads,Denver Nuggets,1.91,-2.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,MyBookie.ag,spreads,Phoenix Suns,1.91,2.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,MyBookie.ag,totals,Over,1.91,233.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,MyBookie.ag,totals,Under,1.91,233.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetRivers,h2h,Denver Nuggets,1.74,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetRivers,h2h,Phoenix Suns,2.14,
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetRivers,spreads,Denver Nuggets,1.91,-2.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetRivers,spreads,Phoenix Suns,1.91,2.5
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetRivers,totals,Over,1.91,234.0
+2024-12-26T03:30:00Z,Phoenix Suns,Denver Nuggets,BetRivers,totals,Under,1.91,234.0

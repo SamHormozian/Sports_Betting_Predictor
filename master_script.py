@@ -1,5 +1,6 @@
 import os
 import subprocess
+import time
 
 # Directories
 PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
@@ -8,6 +9,7 @@ SRC_DIR = os.path.join(PROJECT_ROOT, "src")
 DATA_GATHERING_DIR = os.path.join(SRC_DIR, "data_gathering")
 MODELS_DIR = os.path.join(SRC_DIR, "models")
 REQUIREMENTS_FILE = os.path.join(PROJECT_ROOT, "requirements.txt")
+APP_SCRIPT = os.path.join(PROJECT_ROOT, "app.py")  # Path to app.py
 
 # Paths to individual scripts
 NFL_SCRIPT = os.path.join(DATA_GATHERING_DIR, "nfl_scraper.py")
@@ -56,6 +58,42 @@ def run_script(script_path, description):
         print(f"Error while running {description}:\n{result.stderr}")
         exit(1)
 
+def run_flask_app():
+    """
+    Start the Flask app in a subprocess.
+    """
+    print("\nStarting Flask app (app.py)...")
+    if not os.path.exists(APP_SCRIPT):
+        print(f"Error: {APP_SCRIPT} does not exist!")
+        exit(1)
+
+    # Start the Flask app in a subprocess
+    flask_process = subprocess.Popen(["python", APP_SCRIPT], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    
+    # Wait briefly to allow the Flask app to start
+    time.sleep(5)
+
+    # Check if the app is running
+    poll = flask_process.poll()
+    if poll is None:
+        print("\nFlask app is running successfully!")
+        print("\nAccess the app at: http://127.0.0.1:5000")
+    else:
+        print("\nError: Flask app failed to start.")
+        flask_process.terminate()
+        exit(1)
+
+    return flask_process
+
+def terminate_flask_app(process):
+    """
+    Terminate the Flask app subprocess.
+    """
+    print("\nTerminating Flask app...")
+    process.terminate()
+    process.wait()
+    print("Flask app terminated.")
+
 if __name__ == "__main__":
     print(" Starting the Master Pipeline...")
 
@@ -91,5 +129,15 @@ if __name__ == "__main__":
 
     # Step 9: Evaluate Neural Network
     run_script(EVALUATE_NN_SCRIPT, "Evaluate Neural Network")
+
+    # Step 10: Start Flask app and keep it running
+    flask_process = run_flask_app()
+
+    # Keep Flask app running until interrupted
+    try:
+        print("\nPress CTRL+C to stop the Flask app.")
+        flask_process.wait()
+    except KeyboardInterrupt:
+        terminate_flask_app(flask_process)
 
     print("\n All tasks completed successfully!")
