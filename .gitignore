@@ -31,4 +31,22 @@ venv/
 *.cache
 *.parquet
 
+# Ignore all SSH keys
+*.pem
+*.key
+*.pub
+id_rsa
+id_rsa.pub
+id_dsa
+id_dsa.pub
+id_ecdsa
+id_ecdsa.pub
+id_ed25519
+id_ed25519.pub
 
+# Ignore all files in the .ssh directory (if included in your repo by mistake)
+.ssh/
+
+# Ignore any other specific files containing sensitive information
+config/
+secrets/
