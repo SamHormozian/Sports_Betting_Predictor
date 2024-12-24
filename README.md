@@ -108,5 +108,5 @@ If using the Flask development server, press `CTRL+C` in the terminal running th
 #### To remove the Docker container:
 ```bash
 docker rm sports-betting-app
-
+```
 Thank you for exploring the Sports Betting Predictor! Feel free to reach out for feedback or suggestions. Happy predicting!
