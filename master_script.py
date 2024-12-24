@@ -2,142 +2,84 @@ import os
 import subprocess
 import time
 
-# Directories
-PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
-SCRIPTS_DIR = os.path.join(PROJECT_ROOT, "scripts")
-SRC_DIR = os.path.join(PROJECT_ROOT, "src")
-DATA_GATHERING_DIR = os.path.join(SRC_DIR, "data_gathering")
-MODELS_DIR = os.path.join(SRC_DIR, "models")
-REQUIREMENTS_FILE = os.path.join(PROJECT_ROOT, "requirements.txt")
-APP_SCRIPT = os.path.join(PROJECT_ROOT, "app.py")  # Path to app.py
+# Docker-related configurations
+DOCKER_IMAGE_NAME = "sports-betting-predictor"
+DOCKER_CONTAINER_NAME = "sports-betting-app"
+DOCKER_PORT = 8080
 
-# Paths to individual scripts
-NFL_SCRIPT = os.path.join(DATA_GATHERING_DIR, "nfl_scraper.py")
-NBA_SCRIPT = os.path.join(DATA_GATHERING_DIR, "nba_scraper.py")
-CLEANER_SCRIPT = os.path.join(SRC_DIR, "cleaner.py")
-DATA_COMBINING_SCRIPT = os.path.join(SRC_DIR, "data_combining.py")
-FEATURE_ENGINEER_SCRIPT = os.path.join(SRC_DIR, "feature_engineering.py")
-DATA_SPLITTING_SCRIPT = os.path.join(SRC_DIR, "data_splitting.py")
-TRAIN_NN_SCRIPT = os.path.join(MODELS_DIR, "train_nn.py")
-EVALUATE_NN_SCRIPT = os.path.join(MODELS_DIR, "evaluate_nn.py")
-
-def install_dependencies():
+def build_docker_image():
     """
-    Install all dependencies from requirements.txt.
+    Build the Docker image for the project.
     """
-    print(f"\n{'=' * 40}")
-    print("Installing dependencies from requirements.txt...")
-    print(f"{'=' * 40}")
-
-    if not os.path.exists(REQUIREMENTS_FILE):
-        print(f"Error: {REQUIREMENTS_FILE} does not exist! Please ensure it is in the project root.")
-        exit(1)
-
-    result = subprocess.run(["pip", "install", "-r", REQUIREMENTS_FILE], capture_output=True, text=True)
+    print("\nBuilding Docker image...")
+    result = subprocess.run(
+        ["docker", "build", "-t", DOCKER_IMAGE_NAME, "."],
+        capture_output=True,
+        text=True
+    )
     if result.returncode == 0:
-        print("Dependencies installed successfully.\n")
+        print("Docker image built successfully!\n")
     else:
-        print(f"Error installing dependencies:\n{result.stderr}")
+        print(f"Error building Docker image:\n{result.stderr}")
         exit(1)
 
-def run_script(script_path, description):
+def run_docker_container():
     """
-    Run a Python script and display the status.
+    Run the Docker container for the project.
     """
-    print(f"\n{'=' * 40}")
-    print(f"Running: {description}")
-    print(f"{'=' * 40}")
-    if not os.path.exists(script_path):
-        print(f"Error: {script_path} does not exist!")
-        exit(1)
-
-    result = subprocess.run(["python", script_path], capture_output=True, text=True)
+    print(f"\nStarting Docker container on port {DOCKER_PORT}...")
+    subprocess.run(["docker", "rm", "-f", DOCKER_CONTAINER_NAME], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)  # Remove any existing container
+    result = subprocess.run(
+        [
+            "docker", "run", "-d",
+            "-p", f"{DOCKER_PORT}:5000",
+            "--name", DOCKER_CONTAINER_NAME,
+            DOCKER_IMAGE_NAME
+        ],
+        capture_output=True,
+        text=True
+    )
     if result.returncode == 0:
-        print(f"{description} completed successfully.\n")
+        print(f"Docker container started successfully!\n")
+        print(f"Access the application at: http://127.0.0.1:{DOCKER_PORT}")
     else:
-        print(f"Error while running {description}:\n{result.stderr}")
+        print(f"Error starting Docker container:\n{result.stderr}")
         exit(1)
 
-def run_flask_app():
+def stop_docker_container():
     """
-    Start the Flask app in a subprocess.
+    Stop the running Docker container.
     """
-    print("\nStarting Flask app (app.py)...")
-    if not os.path.exists(APP_SCRIPT):
-        print(f"Error: {APP_SCRIPT} does not exist!")
-        exit(1)
-
-    # Start the Flask app in a subprocess
-    flask_process = subprocess.Popen(["python", APP_SCRIPT], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-    
-    # Wait briefly to allow the Flask app to start
-    time.sleep(5)
-
-    # Check if the app is running
-    poll = flask_process.poll()
-    if poll is None:
-        print("\nFlask app is running successfully!")
-        print("\nAccess the app at: http://127.0.0.1:5000")
+    print("\nStopping Docker container...")
+    result = subprocess.run(
+        ["docker", "stop", DOCKER_CONTAINER_NAME],
+        capture_output=True,
+        text=True
+    )
+    if result.returncode == 0:
+        print("Docker container stopped successfully!")
     else:
-        print("\nError: Flask app failed to start.")
-        flask_process.terminate()
-        exit(1)
+        print(f"Error stopping Docker container:\n{result.stderr}")
 
-    return flask_process
+def main():
+    while True:
+        print("\nOptions:")
+        print("1. Build and run the application")
+        print("2. Stop the application")
+        print("3. Exit")
 
-def terminate_flask_app(process):
-    """
-    Terminate the Flask app subprocess.
-    """
-    print("\nTerminating Flask app...")
-    process.terminate()
-    process.wait()
-    print("Flask app terminated.")
+        choice = input("Enter your choice: ")
+
+        if choice == "1":
+            build_docker_image()
+            run_docker_container()
+        elif choice == "2":
+            stop_docker_container()
+        elif choice == "3":
+            print("Exiting...")
+            break
+        else:
+            print("Invalid choice. Please try again.")
 
 if __name__ == "__main__":
-    print(" Starting the Master Pipeline...")
-
-    # Step 0: Install dependencies
-    install_dependencies()
-
-    # Step 1: Run NFL Stats Script
-    run_script(NFL_SCRIPT, "Combine NFL Stats Script")
-
-    # Step 2: Run NBA Stats Script
-    run_script(NBA_SCRIPT, "Combine NBA Stats Script")
-
-    # Step 3: Data Gathering
-    for script in os.listdir(DATA_GATHERING_DIR):
-        if script.endswith(".py") and script not in {"nfl_scraper.py", "nba_scraper.py"}:
-            script_path = os.path.join(DATA_GATHERING_DIR, script)
-            run_script(script_path, f"Running {script}")
-
-    # Step 4: Data Cleaning
-    run_script(CLEANER_SCRIPT, "Data Cleaning Pipeline")
-
-    # Step 5: Data Combining
-    run_script(DATA_COMBINING_SCRIPT, "Data Combining Pipeline")
-
-    # Step 6: Feature Engineering
-    run_script(FEATURE_ENGINEER_SCRIPT, "Feature Engineering Pipeline")
-
-    # Step 7: Data Splitting
-    run_script(DATA_SPLITTING_SCRIPT, "Data Splitting Pipeline")
-
-    # Step 8: Train Neural Network
-    run_script(TRAIN_NN_SCRIPT, "Train Neural Network")
-
-    # Step 9: Evaluate Neural Network
-    run_script(EVALUATE_NN_SCRIPT, "Evaluate Neural Network")
-
-    # Step 10: Start Flask app and keep it running
-    flask_process = run_flask_app()
-
-    # Keep Flask app running until interrupted
-    try:
-        print("\nPress CTRL+C to stop the Flask app.")
-        flask_process.wait()
-    except KeyboardInterrupt:
-        terminate_flask_app(flask_process)
-
-    print("\n All tasks completed successfully!")
+    main()
